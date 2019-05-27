@@ -6,10 +6,10 @@ Once you receive the shipment, please check for any tampering or damage of the p
 
 <A Picture of an untampered shipment before opening>
 
-Upon opening the package, please ensure, the holographic sticker with the Skycoin logo on the box is not broken.
+Upon opening the package, please ensure that the holographic sticker with the Skycoin logo on the box is not broken.
 <A Picture of the unbroken holographic seal on the box>
 
-## Checking for Software/Technical Issues
+## Check the firmware
 
 Skycoin Hardware Wallet provides maximum security to the user.
 
@@ -17,7 +17,7 @@ However, it is always important to check whether your Skycoin Hardware Wallet is
 
 ## Step 1 - Connecting Your Skycoin Hardware Wallet
 
-To check for the genuineness, first, you have to connect the device to your USB port.
+As the first step, you have to connect the device to your USB port.
 
 <Optional photo Showing the connection of the device to USB port>
 
