@@ -1,21 +1,31 @@
-# Checking the Genuineness of your Skycoin Hardware Wallet
+# Checking the Genuineness of your SkyWallet
 
-## Checking for Physical Issues
+## Checking your Skywallet Shipment Package for Tampering
 
-Once you receive the shipment, please check for any tampering or damage of the package.
+Once you receive the Skywallet shipment, please check for any physical tampering or damage of any sorts to the package.
+
+Tampering or damage can be anything from a small tear on the package to a package that is torn open.
+
+**Please do not accept a shipment which seems to be tampered in any such ways.**
+
+### An Untampered Shipment:
 
 <A Picture of an untampered shipment before opening>
+
+### A Tampered Shipment:
+
+<Optional picture of a tampered shipment which is not absolutely torn open but a small tear or hole so that the user will understand even such a small tamper can also spoil the device, it can also be a general picture, rather than a skywallet shipment>
 
 Upon opening the package, please ensure that the holographic sticker with the Skycoin logo on the box is not broken.
 <A Picture of the unbroken holographic seal on the box>
 
-## Check the firmware
+## Checking the Firmware
 
-Skycoin Hardware Wallet provides maximum security to the user.
+Skywallet is built to provide maximum security to the user.
 
-However, it is always important to check whether your Skycoin Hardware Wallet is not somehow compromised before adding your coins to the wallet.
+However, it is always important to check whether your Skywallet is not somehow compromised before adding your coins to the wallet.
 
-## Step 1 - Connecting Your Skycoin Hardware Wallet
+## Step 1 - Connecting Your Skywallet
 
 As the first step, you have to connect the device to your USB port.
 
@@ -25,9 +35,9 @@ As the first step, you have to connect the device to your USB port.
 
 ### Scenario 1
 
-The display screen equipped on your Skycoin Hardware Wallet displays one of the following three messages when connected via USB port, marking the authenticity of your Wallet.
+The display screen equipped on your Skywallet displays one of the following three messages when connected via USB port, marking the authenticity of your Wallet.
 
-If the Skycoin Hardware wallet is genuine, then the screen will display the following message:
+If the Skywallet is genuine, then the screen will display the following message:
 
 **NEED SEED!**
 
@@ -37,9 +47,9 @@ Along with the Skycoin Logo.
 
 ### Scenario 2:
 
-A Previously used Skycoin Hardware Wallet will have a Seed set up beforehand.
+A Previously used Skywallet will have a Seed set up beforehand.
 
-Hence the message **Need Seed!** will not be displayed and this denotes that your Skycoin Hardware Wallet is unsafe to use as someone else can access your wallet using that previously set up Seed.
+Hence the message **Need Seed!** will not be displayed and this denotes that your Skywallet is unsafe to use as someone else can access your wallet using that previously set up Seed.
 
 <A picture of the Hardware wallet which doesnot display the message NEED SEED>
 
