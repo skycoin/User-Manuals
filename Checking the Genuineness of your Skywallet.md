@@ -1,12 +1,12 @@
 # Checking the Genuineness of your Skywallet
 
-## Checking your Skywallet Shipment Package for Tampering
+## Checking your Skywallet Package for Tampering
 
 Once you receive the Skywallet shipment, please check for any physical tampering or damage of any sorts to the package.
 
 Tampering or damage can be anything from a small tear on the package to a package that is torn open.
 
-**Please do not accept a shipment which seems to have tampered in any such ways.**
+**Do not accept a shipment which seems to be damaged in any such way.**
 
 ### An Untampered Shipment:
 
@@ -16,12 +16,12 @@ Tampering or damage can be anything from a small tear on the package to a packag
 
 <Optional picture of a tampered shipment which is not absolutely torn open but a small tear or hole so that the user will understand even such a small tamper can also spoil the device it can also be a general picture rather than a skywallet shipment>
 
-After opening the shipment package, please ensure that the holographic sticker with the Skycoin logo on the Skywallet box is not broken.
+After opening the package, please ensure that the holographic sticker with the Skycoin logo on the Skywallet box is not broken.
 <A Picture of the unbroken holographic seal on the box>
 
 ## Checking the Firmware
 
-Skywallet is built to provide maximum security to the user.
+The Skywallet is built to provide maximum security to the user.
 
 However, it is important to check whether your Skywallet is not compromised before using it.
 
@@ -33,9 +33,9 @@ As the first step, you have to connect the device to your USB port.
 
 ## Step 2 - Checking the message on your Skywallet's Display
 
-### Scenario 1
+The display screen equipped on your Skywallet displays one of the following three messages when connected via USB port, marking whether your Skywallet is authentic.
 
-The display screen equipped on your Skywallet displays one of the following three messages when connected via USB port, marking the authenticity of your Skywallet.
+### Scenario 1
 
 If the Skywallet is a genuine one and is being used for the first time, then the screen will display the following message:
 
@@ -57,7 +57,7 @@ Hence the message **Need Seed!** will not be displayed and this denotes that you
 
 You can use the following Link: [store.skycoin.net/pages/support](store.skycoin.net/pages/support)
 
-Alternatively, you can detail your concerns and sent an email to **support@skycoin.zendesk.com**
+Alternatively, you can detail your concerns and send an email to **support@skycoin.zendesk.com**
 
 ### Scenario 3:
 
@@ -73,4 +73,4 @@ denoting that the firmware is not approved by Skycoin. Do **not** use a Skywalle
 
 You can use the following Link: [store.skycoin.net/pages/support](store.skycoin.net/pages/support)
 
-Alternatively, you can detail your concerns and sent an email to **support@skycoin.zendesk.com**
+Alternatively, you can detail your concerns and send an email to **support@skycoin.zendesk.com**
