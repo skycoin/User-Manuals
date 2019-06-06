@@ -10,9 +10,9 @@ As the Skycoin Desktop Wallet is used for the interaction between the Skywallet 
 
 Please make sure to download the latest compatible version from the Skycoin [Downloads](https://www.skycoin.net/downloads/) Page.
 
-The portable and mobile version of the wallet is **not** compatible with the Skywallet.
-
 <If you are a Linux user then please make sure to run this script>
+
+If you already have the latest desktop wallet installed and configured, then you can skip this step.
 
 ## Step 2:
 
@@ -22,21 +22,25 @@ Connect your Skywallet to the USB port.
 
 Once you have connected the Skywallet to the USB port, open the Skycoin Desktop Wallet.
 
+If it is the first time you are using your Skywallet, please make sure to go through the following section of the user manual,(Checking the Genuineness of your Skywallet)[https://github.com/skycoin/hardware-wallet/wiki/How-to-check-whether-device-is-genuine], to ensure that you are using a genuine Skywallet.
+
 The instructions for a desktop wallet which is used for the first time and an already configured desktop wallet are different.
 
 ### Step 3.1: First Time Use of a Desktop Wallet
 
 If it is for the first time you are using the desktop wallet then you will see the following screen :
 
-<Screenshot of a Desktop Wallet which is to be configured for the first time>
+<Screenshot of a Desktop Wallet which is used for the first time>
 
 To configure your Skywallet, proceed to click on **“Using a hardware wallet?”** button.
 
 <Screenshot of a Desktop Wallet highlighting “Using a hardware wallet?” button>
 
-On pressing this button, the display screen on Skywallet will show the **“NEEDS SEED!”** message.
+On pressing this button, the display screen on Skywallet will show a welcome message:
 
-<Picture showing the wallet display with the NEEDS SEED message>
+<Reusing the Picture showing the Skywallet display with the welcome message>
+
+In order to configure your Skywallet for the first time, you have to install the firmware for the Skywallet, the same is explained in step #4.
 
 ### Step 3.2: Previously Configured Desktop Wallet
 
@@ -44,19 +48,39 @@ If you are **not** using your desktop wallet for the first time, then on connect
 
 <Screenshot of a previously configured desktop wallet with other wallets as well>
 
-The window will display all your wallets that are already configured using your desktop wallet. 
+The window will display all your wallets that are already configured using your desktop wallet. (*Note - This may include both Hardware and Software wallets*)
 
-To configure your Skywallet click on **Hardware Wallet** button.
+To configure your Skywallet click on the **Hardware Wallet** button.
 
 <Screenshot highlighting the Hardware wallet button along with the context>
 
-On pressing this button, the display screen on the Skywallet will show the **“NEEDS SEED!”** message.
+On pressing this button, the display screen on Skywallet will show a welcome message:
 
-<Picture showing the wallet display with the NEEDS SEED message>
+<Reusing the Picture showing the Skywallet display with the welcome message>
+
+Once the welcome message is displayed on the Skywallet screen, you can proceed to install the firmware.
+
+## Step 4: Installing the Firmware
+
+Once the welcome message is displayed on the Skywallet, the desktop wallet will show the following window:
+
+<Screenshot of the desktop wallet showing the message about the installation of the Firmware>
+
+You can click on continue to start installing the firmware for your Skywallet.
+
+The installation process would take a few seconds to complete. 
+
+Once the installation is complete you can proceed to configure the Skywallet.
+
+**Note - If the installation gets abruptly closed due to any reasons, you can simply disconnect the Skywallet, close the desktop wallet and then retry the whole process from the start.
 
 ## Step 4: Skywallet Configuration
 
-When the “NEEDS SEED!” message is displayed by the Skywallet, simultaneously, the following window will be displayed by the desktop wallet.
+Once the firmware installation is complete, the “NEEDS SEED!” message is displayed by the Skywallet.
+
+<Reusing the picture of the Skywallet display showing the message Needs seed>
+
+Simultaneously, the following window will be displayed by the desktop wallet.
 
 <Screenshot of Desktop wallet displaying the message of detecting an unconfigured hardware wallet>
 
@@ -76,17 +100,16 @@ Once the configuration is complete, the following window will be displayed.
 
 <Screenshot of the configuration process completion>
 
-You can use this window to change the name of your Skywallet as well.
+You can use this window to change the name of your Skywallet. After which you can click on the "Close" button to close the window.
 
-<Screenshot of a changed Hardware wallet name>
+<Screenshot of a changed Skywallet name>
 
 ### Step 4.2: Restore backup
 
-If you have already used a Wallet to store Skycoins and has the backup of the same with you, then you can opt for Restore Backup option.
+If you have already had a backup of previously used Skywallet and needs to restore it to the new Skywallet, then you can opt for Restore Backup option.
 
 The restoration process is explained in detail in this section - [Restore Configuration](https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration)
 
+In case if the Skywallet is **not** connected or not detected by your computer then the following error message will be displayed:
 
-If the Skywallet is **not** connected then the following error message will be displayed:
-
-<Screenshot of the error message showing no hardware wallet detected.>
+<Screenshot of the error message showing no Skywallet detected.>
