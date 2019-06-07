@@ -1,26 +1,26 @@
 # Personalizing your Skywallet
 
-After completing the initialization of your Skywallet, you can start to personalize your Skywallet using the Hardware Configuration window in the desktop wallet.
+After completing the initialization of your Skywallet, you can start to personalize your Skywallet using the Hardware Configuration window in the Desktop Wallet.
 
-Upon configuring your Skywallet using your desktop wallet, the Skywallet will be listed in the Wallet list.
+Upon configuring your Skywallet using your Desktop Wallet, the Skywallet will be listed in the Wallet list.
 
-The list can be viewed when you open your Desktop wallet.
+The list can be viewed when you open your Desktop Wallet.
 
-<Screenshot of the list of wallets displayed when the desktop wallet is opened. One of the wallets in the list needs to be a Skywallet>
+<Screenshot of the list of Wallets displayed when the Desktop Wallet is opened. One of the Wallets in the list needs to be a Skywallet>
 
 To personalize your Skywallet, you have to click on the **"Hardware Wallet"** button.
 
-<Screenshot of the desktop wallet highlighting the Hardware wallet button>
+<Screenshot of the Desktop Wallet highlighting the Hardware Wallet button>
 
-Once you click on this button, the following window will appear:
+Once you click on the "Hardware Wallet" button, the following window will appear:
 
 <Screenshot of the Hardware configuration window with the options available when the Skywallet is used after configuration for the first time>
 
-During your first time use of the Skywallet, you will find these two warnings associated with **"Creating a Backup"** and **"Setting a Pin"** being displayed in the Desktop wallet window.
+When you use the Skywallet for the first time, you will find these two warnings associated with **"Creating a Backup"** and **"Setting a Pin"** being displayed in the Desktop Wallet window.
 
 Both of these warnings are to be dealt with seriously or it may compromise the security of your Skywallet.
 
-In order to complete these two tasks, you can use the options in the Hardware Configuration window
+In order to complete these two tasks, you can use the options in the Hardware Configuration window.
 
 Following are the options available in this window:
 
@@ -32,7 +32,9 @@ Following are the options available in this window:
 
 ## Create a backup
 
-The Seed of your Skywallet is a key component. Hence, once the initialization is complete it is important to backup this Seed and store it in a secure location.
+The Seed of your Skywallet is a key component. A Seed is the only way to access the coins stored in your Skywallet. 
+
+Once the initialization is complete it is important to backup this Seed and store it in a secure location.
 
 To backup the Seed of your skywallet, click on the button **"Create a backup"**.
 
@@ -40,20 +42,22 @@ To backup the Seed of your skywallet, click on the button **"Create a backup"**.
 
 Once you click the button, a warning message(?) will be displayed.
 
-After accepting the same the Skywallet will start to display the words in your Seed one by one.
+After accepting this warning message, the Skywallet will start to display the words in your Seed one by one.
 
 <The warning message needs to be more clearly mentioned and possibly with the screenshot of the warning message>
 <Picture of the Skywallet display screen showing different words in the Seed> <it would be ideal to put at least two pictures>
 
-**You need to note down each of these words and store it in a secure location.** 
+**You need to note down each of these words and store it in a secure location.**
+
+**You would have obtained a Seed card along with your Skywallet, we recommend you to use this Seed card to note down your Seed.** 
 
 **Note - Make sure that it is retrievable because if anything happens to your device, it will be impossible to retrieve your coins without the Seed.**
 
-After completing the display of the words in the Seed, the screen displays ***all the words in the seed again***, so that you can verify your entries.
+After completing the display of the words in the Seed, the screen displays ***all the words in the Seed again***, so that you can verify your entries.
 
-<Needs to add a comment on using the button confirm seed after backing up the seed>
+<Needs to add a comment on using the button confirm Seed after backing up the Seed>
 
-**Note - After completing the Backup process, you cannot repeat the same. Hence it is really important to note the seed down during this process.**
+**Note - After completing the Backup process, you cannot repeat the same. Hence it is important to note the Seed down during this process.**
 
 Also to ensure optimal security of your funds, please make sure to go through this section of the user manual - (Optimize account security)[https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security]
 
@@ -63,23 +67,23 @@ Creating a PIN code for your Skywallet enhances its security, as only a person w
 
 To create a PIN for your Skywallet for the first time, click on the button - **"Create PIN code"**
 
-Once you click on the button the following window will appear on the desktop wallet:
+Once you click on the button the following window will appear on the Desktop Wallet:
 
 <Screenshot showing the window to create a PIN> 
 <it is mentioned in the wiki page that the hash symbol which is currently used to mask the numbers in the keypad will be changed to dot, if so then the latest version screenshot will be needed>
 
-Simultaneously a number **Matrix** will be displayed on your Skywallet display screen.
+Simultaneously a number Matrix will be displayed on your Skywallet display screen.
 
 <Picture of the Skywallet showing the number matrix>
 
-In order to set the PIN, you have to use both the matrix as well as the desktop wallet window.
+In order to set the PIN, you have to use both the matrix as well as the Desktop Wallet window.
 
-**Each position of the number in the matrix corresponds to its position in the window shown by the Desktop wallet.**
+**Each position of the number in the matrix corresponds to its position in the window shown by the Desktop Wallet.**
 
 <A side by side picture of the two pictures mentioned above>
 
 <An explanation of this side by side picture>
-<The explanation can also be an edited image showing the correct position of the numbers in the masked keypad of the desktop wallet window>
+<The explanation can also be an edited image showing the correct position of the numbers in the masked keypad of the Desktop Wallet window>
 
 Alternatively, you can utilize the number keypad on your computer for entering the PIN. 
 
@@ -97,14 +101,12 @@ Also to ensure optimal security for your funds, please make sure to go through t
 
 ## Wipe the device
 
-**"Wipe the device"** button helps you to completely delete all the data on your Skywallet.
+**"Wipe the device"** button helps you to delete the data on your Skywallet.
 
-Once you click on this button you will be asked for a confirmation message on both the Skywallet as well as Desktop Wallet.
+Once you click on the "Wipe the device" button you will be asked for a confirmation message on both the Skywallet as well as Desktop Wallet.
 
-While confirming, note that there is an option to remove the Skywallet from your wallet list in the desktop wallet, by default this option will be checked and if not unchecked your Skywallet will be removed from the wallet list.
+While confirming, note that there is an option to remove the Skywallet from your Wallet list in the Desktop Wallet. By default, this option will be checked and if not unchecked your Skywallet will be removed from the Wallet list.
 
-After confirming the same, your Skywallet will be wiped off of all the data and you can use it as a brand new one.
+After confirming the warning message to wipe the device, **all the data in your Skywallet will be erased except for the firmware updates.** The firmware updates of your Skywallet cannot be erased and will remain the same as before even after the deletion process.
 
-You can also restore all your coins by using the previously setup seed and the restore backup option, details on how to restore your wallet are available on this section (Restore Backup)[https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration].
-
-**Note - Wiping the Skywallet will not delete the firmware updates that have been applied to the device.**
+You can also restore all your coins by using the Seed of a previously configured Skywallet, details on how to restore your Wallet are available on this section (Restore Backup)[https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration].
