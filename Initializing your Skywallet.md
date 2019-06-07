@@ -6,7 +6,7 @@ On successfully ensuring the genuineness of your Skywallet, you can begin with t
 
 The first step in initializing your Skywallet is to install the Skycoin Desktop Wallet.
 
-As the Skycoin Desktop Wallet is used for the interaction between the Skywallet and the User.
+The Skycoin Desktop Wallet is used for the interaction between the Skywallet and the User.
 
 Please make sure to download the latest compatible version from the Skycoin [Downloads](https://www.skycoin.net/downloads/) Page.
 
@@ -28,7 +28,7 @@ The instructions for a desktop wallet which is used for the first time and an al
 
 ### Step 3.1: First Time Use of a Desktop Wallet
 
-If it is for the first time you are using the desktop wallet then you will see the following screen :
+If you are using the Desktop Wallet for the first time, you will see the following screen :
 
 <Screenshot of a Desktop Wallet which is used for the first time>
 
@@ -36,11 +36,11 @@ To configure your Skywallet, proceed to click on **“Using a hardware wallet?�
 
 <Screenshot of a Desktop Wallet highlighting “Using a hardware wallet?” button>
 
-On pressing this button, the display screen on Skywallet will show a welcome message:
+On pressing “Using a hardware wallet?” button, the display screen on Skywallet will show a welcome message:
 
 <Reusing the Picture showing the Skywallet display with the welcome message>
 
-In order to configure your Skywallet for the first time, you have to install the firmware for the Skywallet, the same is explained in step #4.
+In order to configure your Skywallet for the first time, you have to install the firmware for the Skywallet, as explained in [step #4](#Step_4) .
 
 ### Step 3.2: Previously Configured Desktop Wallet
 
@@ -50,17 +50,17 @@ If you are **not** using your desktop wallet for the first time, then on connect
 
 The window will display all your wallets that are already configured using your desktop wallet. (*Note - This may include both Hardware and Software wallets*)
 
-To configure your Skywallet click on the **Hardware Wallet** button.
+To configure your Skywallet click on the **"Hardware Wallet"** button.
 
 <Screenshot highlighting the Hardware wallet button along with the context>
 
-On pressing this button, the display screen on Skywallet will show a welcome message:
+On pressing "Hardware Wallet" button, the display screen on Skywallet will show a welcome message:
 
 <Reusing the Picture showing the Skywallet display with the welcome message>
 
 Once the welcome message is displayed on the Skywallet screen, you can proceed to install the firmware.
 
-## Step 4: Installing the Firmware
+## <a name="Step_4"> </a> Step 4: Installing the Firmware
 
 Once the welcome message is displayed on the Skywallet, the desktop wallet will show the following window:
 
@@ -72,7 +72,7 @@ The installation process would take a few seconds to complete.
 
 Once the installation is complete you can proceed to configure the Skywallet.
 
-**Note - If the installation gets abruptly closed due to any reasons, you can simply disconnect the Skywallet, close the desktop wallet and then retry the whole process from the start.
+**Note - If the installation gets abruptly closed due to any reason, you can simply disconnect the Skywallet, close the desktop wallet and then retry the whole process from the start.
 
 ## Step 4: Skywallet Configuration
 
@@ -86,15 +86,15 @@ Simultaneously, the following window will be displayed by the desktop wallet.
 
 In this window you can select two options :
 
-**Configure automatically**
+**"Configure automatically"**
 
-**Restore backup**
+**"Restore backup"**
 
 ### Step 4.1: Configure automatically
 
-If you are using a Skywallet for the **first** time, then you can proceed with the option of Configure Automatically.
+If you are using a Skywallet for the **first** time, then you can proceed with the option of "Configure Automatically".
 
-"Configure automatically" button will configure your Skywallet as a new one entirely.
+"Configure automatically" button will configure your Skywallet as a new one.
 
 Once the configuration is complete, the following window will be displayed.
 
