@@ -1,6 +1,6 @@
 # Personalizing your Skywallet
 
-After completing the initialization of your Skywallet, you can start to personalize your Skywallet using the Hardware Configuration window in the Desktop Wallet.
+After completing the initialization of your Skywallet, you can start to personalize your Skywallet using the Hardware Wallet window in the Desktop Wallet.
 
 Upon configuring your Skywallet using your Desktop Wallet, the Skywallet will be listed in the Wallet list.
 
@@ -14,13 +14,13 @@ To personalize your Skywallet, you have to click on the **"Hardware Wallet"** bu
 
 Once you click on the "Hardware Wallet" button, the following window will appear:
 
-<Screenshot of the Hardware configuration window with the options available when the Skywallet is used after configuration for the first time>
+<Screenshot of the Hardware Wallet window with the options available when the Skywallet is used after configuration for the first time>
 
 When you use the Skywallet for the first time, you will find these two warnings associated with **"Creating a Backup"** and **"Setting a Pin"** being displayed in the Desktop Wallet window.
 
 Both of these warnings are to be dealt with seriously or it may compromise the security of your Skywallet.
 
-In order to complete these two tasks, you can use the options in the Hardware Configuration window.
+In order to complete these two tasks, you can use the options in the Hardware Wallet window.
 
 Following are the options available in this window:
 
@@ -38,7 +38,7 @@ Once the initialization is complete it is important to backup this Seed and stor
 
 To backup the Seed of your skywallet, click on the button **"Create a backup"**.
 
-<Screenshot of the hardware configuration window with an arrow pointing towards the create a backup button or highlighting the button>
+<Screenshot of the hardware wallet window with an arrow pointing towards the create a backup button or highlighting the button>
 
 Once you click the button, a warning message(?) will be displayed.
 
