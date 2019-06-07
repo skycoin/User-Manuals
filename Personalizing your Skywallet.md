@@ -8,7 +8,7 @@ The list can be viewed when you open your Desktop Wallet.
 
 <Screenshot of the list of Wallets displayed when the Desktop Wallet is opened. One of the Wallets in the list needs to be a Skywallet>
 
-To personalize your Skywallet, you have to click on the **"Hardware Wallet"** button.
+To personalize your Skywallet, you have to click on the **Hardware Wallet** button.
 
 <Screenshot of the Desktop Wallet highlighting the Hardware Wallet button>
 
@@ -16,7 +16,7 @@ Once you click on the "Hardware Wallet" button, the following window will appear
 
 <Screenshot of the Hardware Wallet window with the options available when the Skywallet is used after configuration for the first time>
 
-When you use the Skywallet for the first time, you will find these two warnings associated with **"Creating a Backup"** and **"Setting a Pin"** being displayed in the Desktop Wallet window.
+When you use the Skywallet for the first time, you will find these two warnings associated with **Creating a Backup** and **Setting a Pin** being displayed in the Desktop Wallet window.
 
 Both of these warnings are to be dealt with seriously or it may compromise the security of your Skywallet.
 
@@ -65,7 +65,7 @@ Also to ensure optimal security of your funds, please make sure to go through th
 
 Creating a PIN code for your Skywallet enhances its security, as only a person with the PIN can access the device. 
 
-To create a PIN for your Skywallet for the first time, click on the button - **"Create PIN code"**
+To create a PIN for your Skywallet for the first time, click on the button - **Create PIN code**
 
 Once you click on the button the following window will appear on the Desktop Wallet:
 
@@ -101,7 +101,7 @@ Also to ensure optimal security for your funds, please make sure to go through t
 
 ## Wipe the device
 
-**"Wipe the device"** button helps you to delete the data on your Skywallet.
+**Wipe the device** button helps you to delete the data on your Skywallet.
 
 Once you click on the "Wipe the device" button you will be asked for a confirmation message on both the Skywallet as well as Desktop Wallet.
 
