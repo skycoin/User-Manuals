@@ -32,7 +32,7 @@ As the first step, you have to connect the Skywallet to your USB port.
 
 ## Step 2 - Checking the message on your Skywallet's Display
 
-The display screen equipped on your Skywallet displays one of the following three messages when connected via USB port, marking whether your Skywallet is authentic.
+The display on your Skywallet shows one of the following three messages when connected via USB port, marking whether your Skywallet is authentic.
 
 ### Scenario 1
 
@@ -46,13 +46,15 @@ Along with the Skycoin Logo.
 
 <A photo of the Hardware wallet displaying the welcome message>
 
-A Skywallet that is being used for the first time will not have a firmware(the software interface) installed. 
+A Skywallet that is being used for the first time will not have a firmware installed.
 
-Hence any message apart from this welcome message implies that your Skywallet has been tampered by a third party.
+A firmware to a hardware is what an operating system is to your computer. Hence without firmware a hardware device cannot work properly.
+
+Hence any message apart from this welcome message implies that your Skywallet has been tampered with by a third party. Thus if you get any message apart from the welcome message, proceed to disconnect the device and contact support immediately.
 
 ### Scenario 2:
 
-A Previously used Skywallet will have a firmware initialized hence such a Skywallet will display the following message on its display screen:
+A previously used Skywallet may have a firmware initialized and if it has, such a Skywallet will display the following message on its display screen:
 
 **Need Seed!**
 
