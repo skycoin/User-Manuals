@@ -29,7 +29,6 @@ However, it is important to check whether your Skywallet is not compromised befo
 
 As the first step, you have to connect the Skywallet to your USB port.
 
-
 ## Step 2 - Checking the message on your Skywallet's Display
 
 The display on your Skywallet shows one of the following three messages when connected via USB port, marking whether your Skywallet is authentic.
@@ -80,7 +79,7 @@ The third and final message that might be displayed is a warning:
 
 denoting that the Skywallet is running on a firmware that is not approved by Skycoin. 
 
-Do **not** use a Skywallet displaying that warning as the software version on your wallet might be corrupted and it is ***unsafe*** to use the Skywallet, as using the said wallet could potentially make you lose your coins.
+Do **not** use a Skywallet displaying that warning as the software version on your Skywallet might be corrupted and it is ***unsafe*** to use the Skywallet, as using the said Skywallet could potentially make you lose your coins.
 
 <A picture showing the message Unofficial firmware detected>
   
