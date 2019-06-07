@@ -54,7 +54,7 @@ Hence any message apart from this welcome message implies that your Skywallet ha
 
 ### Scenario 2:
 
-A previously used Skywallet may have a firmware initialized and if it has, such a Skywallet will display the following message on its display screen:
+A previously used Skywallet may have a firmware initialized and if it has, then it might mean that it has been manipulated. Such a Skywallet will display the following message on its display screen:
 
 **Need Seed!**
 
