@@ -34,7 +34,7 @@ As the first step, you have to connect the Skywallet to your USB port.
 
 The display on your Skywallet shows one of the following three messages when connected via USB port, marking whether your Skywallet is authentic.
 
-### Scenario 1
+### Scenario 1:
 
 If the Skywallet is a genuine one and is being used for the first time, then the screen will display the following message:
 
@@ -48,7 +48,7 @@ Along with the Skycoin Logo.
 
 A Skywallet that is being used for the first time will not have a firmware installed.
 
-A firmware to a hardware is what an operating system is to your computer. Hence without firmware a hardware device cannot work properly.
+Firmware is like the brain of a hardware device (in this case your Skywallet). It is the software interface which helps the hardware to interact with both the user as well as a computer. Thus without a firmware, your Skywallet will not work properly.
 
 Hence any message apart from this welcome message implies that your Skywallet has been tampered with by a third party. Thus if you get any message apart from the welcome message, proceed to disconnect the device and contact support immediately.
 
@@ -68,7 +68,7 @@ Getting a Need Seed! message on your first use means that your Skywallet is not 
 
 Also for further assistance, **Please contact the support team immediately.**
 
-You can use the following Link to contact support: [store.skycoin.net/pages/support](store.skycoin.net/pages/support)
+You can use the following Link to contact support: [Support Page](store.skycoin.net/pages/support)
 
 Alternatively, you can detail your concerns and send an email to **support@skycoin.zendesk.com**
 
@@ -86,6 +86,6 @@ Do **not** use a Skywallet displaying that warning as the software version on yo
   
 **Please note that if you get an Unofficial Firmware Detected message on your Skywallet then immediately disconnect the device and contact the Skycoin support.**
 
-You can use the following Link: [store.skycoin.net/pages/support](store.skycoin.net/pages/support)
+You can use the following Link to the [Support page](store.skycoin.net/pages/support).
 
 Alternatively, you can detail your concerns and send an email to **support@skycoin.zendesk.com**
