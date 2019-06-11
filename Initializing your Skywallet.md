@@ -72,7 +72,7 @@ The installation process would take a few seconds to complete.
 
 Once the installation is complete you can proceed to configure the Skywallet.
 
-**Note - If the installation gets abruptly closed due to any reason, you can simply disconnect the Skywallet, close the Desktop Wallet and then retry the whole process from the start.
+**Note - If the installation gets abruptly closed due to any reason, you can disconnect the Skywallet, close the Desktop Wallet and then retry the whole process from the start.
 
 ## Step 4: Skywallet Configuration
 
