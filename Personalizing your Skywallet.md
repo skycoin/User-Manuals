@@ -55,9 +55,7 @@ After accepting this warning message, the Skywallet will start to display the wo
 
 After completing the display of the words in the Seed, the screen displays ***all the words in the Seed again***, so that you can verify your entries.
 
-<Needs to add a comment on using the button confirm Seed after backing up the Seed>
-
-**Note - After completing the Backup process, you cannot repeat the same. Hence it is important to note the Seed down during this process.**
+**Note - After completing the Backup process, you cannot repeat the same. Hence it is important to note the Seed down during this process. Once you have completed the backup process, the "Create a backup" button will be replaced by "Confirm Seed" button.**
 
 Also to ensure optimal security of your funds, please make sure to go through this section of the user manual - (Optimize account security)[https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security]
 
