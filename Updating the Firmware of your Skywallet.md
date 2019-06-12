@@ -34,7 +34,7 @@ If you have ignored this message and are in the Hardware wallet option window, y
 
 <Reusing the screenshot of the warning message in the Hardware wallet window by highlighting the update firmware button>
 
-Once you have clicked on either of these buttons, the following dialogue box with the warning message to **backup your Seed** will appear on your computer:
+Once you have clicked on either the "Update" button or "Update Firmware" button, the following dialogue box with the warning message to **backup your Seed** will appear on your computer:
 
 <Warning message to start the device in bootloader mode and backup the Seed>
 
