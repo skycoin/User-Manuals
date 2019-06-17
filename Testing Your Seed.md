@@ -14,7 +14,7 @@ In order to test this feature, you have to connect your Skywallet first.
 
 ***If you are connecting the Skywallet for the first time, please read the following manuals - [Initialization of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/Initialize-the-wallet-setting-up) and [Personalization of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/Getting-to-know-the-wallet) to understand how to initialize and personalize your Skywallet for its first time use.***
 
-If you are seeing the "Confirm Seed" button on your Hardware Wallet window, then it means that you already taken the backup of the Seed.
+If you are seeing the "Confirm Seed" button on your Hardware Wallet window, then it means that you have already taken the backup of the Seed.
 
 After clicking on the "Confirm Seed" button the Skywallet will ask you to enter the different words in your Seed.
 
