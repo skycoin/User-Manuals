@@ -6,6 +6,8 @@ In order to restore your coins, you would only need the Seed of the old Skywalle
 
 ***A Seed is a combination of 12 or 24 words which serves as the key to access your Skywallet.***
 
+**NOTE - You can only use the Seed of a Skywallet on another Skywallet and cannot use the Seed of a Desktop Wallet on a Skywallet.**
+
 To begin the restoration process follow these steps:
 
 
@@ -17,7 +19,7 @@ Connect the new Skywallet to your computer.
 
 Once the Skywallet is connected, a welcome message can be seen on its display. This also denotes the genuineness of your Skywallet. 
 
-If you want to know more how to check for the genuineness of your Skywallet. Please visit the following link - [Checking the Genuineness of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/How-to-check-whether-device-is-genuine)
+If you want to know more how to check the genuineness of your Skywallet. Please visit the following link - [Checking the Genuineness of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/How-to-check-whether-device-is-genuine)
 
 <Picture of the Welcome message on the Skywallet>
 
@@ -63,11 +65,9 @@ Upon clicking this button the Skywallet will start asking you to enter each word
 **The Skywallet might also ask you to enter random words that are not part of your Seed as well.**
 <Image of the Skywallet asking the user to enter a random word>
 
-The random sequence of words and the random words are a security precaution against a potential hacker or malware that has access to your computer.
+**The random sequence of words and the random words are a security precaution and because of this security measures it can be ensured that a potential hacker/malware, who has access to your computer does get neither the full Seed nor right sequence of the Seed.**
 
-**Because of both the random sequence and words it can be ensured that such a security threat is nullified as the attacker/malware does get neither the full Seed nor right sequence of the Seed.**
-
-If you have successfully entered both the random words and the words in your Seed according to their position, the Desktop Wallet will display a confirmation window that your new Skywallet has been added to the Wallet list.
+If you have successfully entered both the random words and the words in your Seed according to their position, the Desktop Wallet will display a confirmation window that your new Skywallet added to the Wallet list.
 
 <Screenshot of the confirmation window from the Desktop Wallet>
 
@@ -75,4 +75,4 @@ You can also rename your Skywallet using this window.
 
 <Reusing the last screenshot with the name of the wallet edited>
 
-If you fail to enter either the random words correctly, or incorrectly enter the words of your Seed, the process will fail and you will have to restart the procedure from the beginning.
+However, if you fail to enter either the random words correctly, or incorrectly enter the words of your Seed, the process will fail and you will have to restart the procedure from the beginning.
