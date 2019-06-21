@@ -39,7 +39,8 @@ Following are some recommendations to backup and store your Seed safely:
 * **Do not Store the Seed in an electronic device. Because storing a Seed in an electronic device effectively nullifies the security it ensures, as the electronic device can potentially be hacked by an attacker, thereby giving access to your Seed.**
 Hence it is recommended to store the Seed in a paper or a notebook which can then be stored in a safe place that is inaccessible to any unauthorized person at the same time not prone to any accidents.  
 **The only instance when the Seed is entered into a computer is when you are restoring the backup of your Wallet**, in that case, the Skywallet and Desktop Wallet process the Seed in a secure way which ensures that a third party will not gain access to your Seed.  
-The process is explained in detail in the section (Restore Backup)[https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration].
+The process is explained in detail in the section (Restore Backup)[https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration].  
+**NOTE - It is recommended to utilize the Seed recovery sheet provided in your Skywallet package to store the backup of your Seed.**
 
 * Create multiple copies of the Seed and store it in separate locations.
 
