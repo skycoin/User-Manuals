@@ -1,12 +1,12 @@
 # Restoring Backup with an Existing Seed
 
-If you have already owned a Skywallet to store your coins and have bought a new one to replace it, you can opt to restore the old Skywallet using the new one.
+If you have bought a brand new Skywallet and wish to restore the backup of another Skywallet then you can utilize the "Restore Backup" feature available with your Skywallet.
 
-In order to restore your coins, you would only need the Seed of the old Skywallet.
+In order to restore your coins, you only need Seed of another Skywallet.
 
 ***A Seed is a combination of 12 or 24 words which serves as the key to access your Skywallet.***
 
-**NOTE - You can only use the Seed of a Skywallet on another Skywallet and cannot use the Seed of a Desktop Wallet on a Skywallet.**
+**NOTE - You can use the Seed of a Skywallet on another Skywallet but it is not recommended to use the same Seed for a Desktop Wallet, as this could comprise the security of your Skywallet.**
 
 To begin the restoration process follow these steps:
 
@@ -67,7 +67,7 @@ Upon clicking this button the Skywallet will start asking you to enter each word
 
 **The random sequence of words and the random words are a security precaution and because of this security measures it can be ensured that a potential hacker/malware, who has access to your computer does get neither the full Seed nor right sequence of the Seed.**
 
-If you have successfully entered both the random words and the words in your Seed according to their position, the Desktop Wallet will display a confirmation window that your new Skywallet added to the Wallet list.
+If you have successfully entered both the random words and the words in your Seed according to their position, the Desktop Wallet will display a confirmation window that your new Skywallet was added to the Wallet list.
 
 <Screenshot of the confirmation window from the Desktop Wallet>
 
