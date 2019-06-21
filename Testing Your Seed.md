@@ -4,9 +4,11 @@ Once you have made the backup of a Seed, this Seed can be used to access your Sk
 
 **NOTE - The Seed generated for a Skywallet can only be used with a Skywallet. You cannot use this Seed in the Desktop Wallet.**
 
-The **Confirm Seed** button in the Hardware Wallet window of your Desktop Wallet can help you in such situations to verify whether a Seed belongs to a particular Skywallet.
+If you want to check, whether a Seed you have written down belongs to a given Skywallet, you can use the **Confirm Seed** button. This is a security procedure to check whether the backup has been successful.
 
-The "Confirm Seed" button will not be available when you are using your Skywallet for the first time. Instead you will be having the button **Create Backup** and once you have clicked on the **Create Backup** button on the Hardware Wallet window and completed the process of the Seed backup, "Create Backup" button will be replaced by the "Confirm Seed" button.
+The "Confirm Seed" button will not be available when you are using your Skywallet for the first time. Instead you will see the button **Create Backup**.
+
+Once you have clicked on the **Create Backup** button on the Hardware Wallet window and completed the process of the Seed backup, "Create Backup" button will be replaced by the "Confirm Seed" button.
 
 <Two Screenshots where the first one is the Hardware Wallet window highlighting Create Backup button and the second one of the same window but highlighting the button confirm seed>
 
@@ -24,7 +26,7 @@ After clicking on the "Confirm Seed" button the Skywallet will ask you to enter 
 
 <Optional picture may be to explain the random sequence by reusing the last image and screenshot along with the next message displayed by the Skywallet to enter another word in another position and its simultaneous Desktop Wallet screenshot>
 
-Along with asking you to enter the words of the Seed at a particular position, **the Skywallet may ask you to enter a random word which is not part of the Seed.**
+Along with asking you to enter the words of the Seed at a particular position, **the Skywallet may ask you to enter random words which are not part of the Seed.**
 
 **Both the random words and the random sequence are a security measure to ensure that a potential attacker who might have access to your computer does get neither the full seed nor the right sequence.**
 
