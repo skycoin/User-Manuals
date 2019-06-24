@@ -2,7 +2,7 @@
 
 Even though the Skywallet provides greater security when compared to a Desktop Wallet, it is essential to follow these security optimizations to get maximum security benefit from your Skywallet.
 
-One of two things is necessary for a third party to access the Skywallet, which is either the PIN code of the Skywallet and  the Seed of the Skywallet.
+One of two things is necessary for a third party to access the Skywallet, which is either the PIN code of the Skywallet and the Seed of the Skywallet.
 
 It is recommended to create a secure PIN code, although, unless your Skywallet is lost or got stolen, no one can access it using the PIN code.
 
@@ -36,14 +36,13 @@ As the Seed is not created by you and is generated on the device, you need not w
 
 Following are some recommendations to backup and store your Seed safely:
 
-* **Do not Store the Seed in an electronic device. Because storing a Seed in an electronic device effectively nullifies the security it ensures, as the electronic device can potentially be hacked by an attacker, thereby giving access to your Seed.**
+* **Do not Store the Seed in an electronic device. Because saving a Seed in an electronic device effectively nullifies the security it ensures, as the electronic device can potentially be hacked by an attacker, thereby giving access to your Seed.**
 Hence it is recommended to store the Seed in a paper or a notebook which can then be stored in a safe place that is inaccessible to any unauthorized person at the same time not prone to any accidents.  
 **The only instance when the Seed is entered into a computer is when you are restoring the backup of your Wallet**, in that case, the Skywallet and Desktop Wallet process the Seed in a secure way which ensures that a third party will not gain access to your Seed.  
-The process is explained in detail in the section (Restore Backup)[https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration].  
-**NOTE - It is recommended to utilize the Seed recovery sheet provided in your Skywallet package to store the backup of your Seed.**
+The process is explained in detail in the section (Restore Backup)[https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration].
 
 * Create multiple copies of the Seed and store it in separate locations.
 
 * Make sure to inform of at least one location of the Seed to your immediate family member(s) as a precaution in case of an emergency.
 
-* You can also go for splitting up the Seed in parts to store it in different locations or to have a cipher code for the words in the Seed.  However, both these methods have a risk factor and are not recommended approaches, unless you are ready to take the risk.
+* You can also go for splitting up the Seed in parts to store it in different locations or to have a cipher code for the words in the Seed.  However, both these methods have a risk factor and are not recommended approaches unless you are ready to take the risk.
