@@ -1,6 +1,6 @@
 # Restoring Backup with an Existing Seed
 
-If you have bought a brand new Skywallet and wish to restore the backup of another Skywallet then you can utilize the "Restore Backup" feature available with your Skywallet.
+If you have bought a brand new Skywallet and wish to restore the backup of another Skywallet then you can utilize the "Restore Backup" feature during the initialization of your Skywallet.
 
 In order to restore your coins, you only need Seed of the other Skywallet.
 
