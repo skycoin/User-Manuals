@@ -1,14 +1,12 @@
 # Sending and Receiving Coins Using your Skywallet
 
-Sending and receiving of Coins are two of the most basic features of your Skywallet.
-
-To send or receive Coins using your Skywallet, you have to initialize and personalize your Skywallet, details on how to initialize and personalize your Skywallet is explained in the following sections :
+To send or receive Coins using your Skywallet, you have to initialize and personalize your Skywallet first. Details on how to initialize and personalize your Skywallet can be found in the following chapters:
 
 **[Initialization of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/Initialize-the-wallet-setting-up)**
 
 **[Personalization of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/Getting-to-know-the-wallet)**
 
-Once you have completed your initialization and personalization of your Skywallet using your Desktop Wallet you can see your Skywallet in the list of Wallets configured using your Desktop Wallet.
+Once you have completed the initialization and personalization of your Skywallet, you can see your Skywallet in the list of Wallets configured using your Desktop Wallet.
 
 <screenshot of the Desktop Wallet showing the list of configured Wallets>
 
@@ -22,7 +20,7 @@ To get the address of the Skywallet, follow these steps :
 
 **Step 2** - Open the Desktop Wallet from your computer.
 
-**Step 3** - The window will display the list of all the Wallets configured using your Desktop Wallet, from this list you can click on your Skywallet name to get the Wallet address of your Skywallet.
+**Step 3** - The window will display the list of all the Wallets configured using your Desktop Wallet. From this list you can click on your Skywallet name to get the Wallet address of your Skywallet.
 
 However, only the partial address will be visible for you.
 
@@ -36,14 +34,15 @@ Once you have clicked on the "Press to Show" button, the address of the Skywalle
 
 <screenshot and image of the same address being displayed>
 
-**NOTE - Please check whether both these addresses are same. If it is not the same, then cancel the operation and stop using both the Skywallet and Desktop Wallet. Immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support), or you can send an email detailing the issue to **support@skycoin.zendesk.com**.  
+**NOTE - Please check whether both these addresses are the same. If they are not the same, then cancel the operation and stop using the Skywallet. Immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
+Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
 It is imperative you do this as showing different addresses means your Wallets might have been compromised and using the same would lead you to the loss of your Coins.**
 
 **Wallets Showing Different Addresses**
 
 <screenshot and image of different addresses being displayed>
 
-**Step 5** - After confirming both the addresses are same, proceed to confirm the operation on your Skywallet. 
+**Step 5** - After confirming both the addresses are the same, proceed to confirm the operation on your Skywallet. 
 
 You can use this address to receive Coins to your Skywallet, and once the transaction is confirmed in the blockchain, your Coins will appear in the balance.
 
@@ -92,9 +91,12 @@ To send Coins from your Skywallet, you only need the complete address of the rec
 **Wallets Showing Different Addresses**
 <screenshot and image of different address being displayed>
 
- **NOTE - Please make sure that the receiving Wallet address entered by you and the one displayed by the Skywallet in the confirmation message is same.  
- If it is not, abort the whole process and stop using both the Skywallet and Desktop Wallet and immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support), or you can send an email detailing the issue to **support@skycoin.zendesk.com**.  
+ **NOTE - Please make sure that the receiving Wallet address entered by you and the one displayed by the Skywallet in the confirmation message are the same.  
+ If it is not the same, abort the whole process and stop using both the Skywallet and immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
+Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
  It is imperative you do this as showing different addresses means your Wallets might have been compromised and using the same would lead you to the loss of your Coins.**
+
+**Step 10** - After you verify both the address you have entered in the Desktop Wallet and the one displayed by the Skywallet in its confirmation message are the same, you can confirm the operation on your Skywallet to send the Coins. 
  
  ## Advanced Send
  
