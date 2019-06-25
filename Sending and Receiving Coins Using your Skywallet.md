@@ -20,7 +20,7 @@ To get the address of the Skywallet, follow these steps :
 
 **Step 2** - Open the Desktop Wallet from your computer.
 
-**Step 3** - The window will display the list of all the Wallets configured using your Desktop Wallet. From this list you can click on your Skywallet name to get the Wallet address of your Skywallet.
+**Step 3** - The window will display the list of all the Wallets configured using your Desktop Wallet. From this list, you can click on your Skywallet name to get the Wallet address of your Skywallet.
 
 However, only the partial address will be visible for you.
 
@@ -91,12 +91,12 @@ To send Coins from your Skywallet, you only need the complete address of the rec
 **Wallets Showing Different Addresses**
 <screenshot and image of different address being displayed>
 
- **NOTE - Please make sure that the receiving Wallet address entered by you and the one displayed by the Skywallet in the confirmation message are the same.  
+ **NOTE - Please make sure that the receiving Wallet address entered by you and the one displayed by the Skywallet in the confirmation message is the same.  
  If it is not the same, abort the whole process and stop using both the Skywallet and immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
 Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
  It is imperative you do this as showing different addresses means your Wallets might have been compromised and using the same would lead you to the loss of your Coins.**
 
-**Step 10** - After you verify both the address you have entered in the Desktop Wallet and the one displayed by the Skywallet in its confirmation message are the same, you can confirm the operation on your Skywallet to send the Coins. 
+**Step 10** - After you verify both the address you have entered in the Desktop Wallet and the one displayed by the Skywallet in its confirmation message is the same, you can confirm the operation on your Skywallet to send the Coins. 
  
  ## Advanced Send
  
