@@ -2,9 +2,9 @@
 
 Even though the Skywallet provides greater security when compared to a Desktop Wallet, it is essential to follow these security optimizations to get maximum security benefit from your Skywallet.
 
-One of two things is necessary for a third party to access the Skywallet, which is either the PIN code of the Skywallet and the Seed of the Skywallet.
+One of two things is necessary for a third party to access your Skywallet, which is either your Skywallet along with your PIN code of the Skywallet or the Seed of your Skywallet.
 
-It is recommended to create a secure PIN code, although, unless your Skywallet is lost or got stolen, no one can access it using the PIN code.
+It is recommended to create a secure PIN code to keep your Skywallet safe from unauthorized access.
 
 However, this is not the case for a Seed, and any hacker/malware which gets access to your Seed of the Skywallet can remotely access or steal your funds.
 
@@ -16,13 +16,13 @@ Your PIN code is a four-digit combination, and a brand new Skywallet which you r
 
 Hence, it is essential first to set a PIN code right after you receive your Skywallet. If you want to know more about how to set the PIN code and personalize your Skywallet, please visit the user manual [Personalization of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/Getting-to-know-the-wallet).
 
-Though the PIN code is a four-digit combination, it would not be easy for an attacker/hacker to try the different combinations and work it out. 
+Although the PIN code is only a combination of four digits, it is very unlikely for an attacker to guess a secure PIN.
 
-Because after each failed attempt, one has to wait for a specific time before attempting the next combination and with each failed attempt the waiting time increases exponentially thus making it highly unlikely for an attacker/hacker to obtain access of your Skywallet this way.
+Because after each failed attempt, one has to wait for a specific time before attempting the next combination and with each failed attempt the waiting time increases exponentially thus making it highly unlikely for an attacker/hacker to obtain access to your Skywallet.
 
-However, such a security precaution is ineffective if you create the PIN as an easy to guess one. 
+However, such a security precaution is ineffective if you create an insecure PIN.
 
-Examples include but are not limited to, important dates, or sequences (like 1234) or repeating digits(1111).
+Examples of an insecure PIN include, but are not limited to, important dates, or sequences (like 1234) or repeating digits(1111).
 
 Hence a secure PIN code is something easy to remember and at the same time not easy to guess for a third party.
 
