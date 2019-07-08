@@ -37,7 +37,7 @@ You can follow these steps to install the Skycoin Desktop Wallet on your Mac:
 
 * A window will open where you can see the Desktop Wallet's icon and an arrow pointing towards the "Applications" folder. Drag and drop the Desktop Wallet's icon to the "Applications" folder.
 
-* Once this is done, you can now open the Desktop Wallet by double clicking he Wallet from the "Applications" folder.
+* Once this is done, you can now open the Desktop Wallet by double-clicking the Wallet from the "Applications" folder.
 
 ## Mobile Wallet
 
@@ -47,7 +47,7 @@ You can follow these steps to install the Skycoin Mobile Wallet on your iPhone:
 
 * Click on the download link next to "Apple iOS App Store (recommended)" from your iPhone.
 
-* The link will open the App Store application on your phone, clicking on "Get" will install the Wallet into your iPhone.
+* The link will open the App Store application on your Phone, clicking on "Get" will install the Wallet into your iPhone.
 
 * Once completed you can access the Skycoin Mobile Wallet from your Phone's menu.
 
@@ -57,6 +57,6 @@ You can follow these steps to install the Android version of the Skycoin Mobile 
 
 * Click on the download link next to "Google Play Store (recommended)" from your Android mobile.
 
-* The link will open your Playstore application, where you will find the button, "Install", pressing on which will begin installation of the Wallet.
+* The link will open your Playstore application, where you will find the button, "Install", pressing on which will begin the installation of the Wallet.
 
-* Once the installation is complete, you can open the Skycoin Mobile Wallet from your phone's menu.
+* Once the installation is complete, you can open the Skycoin Mobile Wallet from your menu.
