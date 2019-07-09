@@ -10,7 +10,7 @@ The Skycoin Desktop Wallet is used for the interaction between the Skywallet and
 
 Please make sure to download the latest compatible version from the Skycoin [Downloads](https://www.skycoin.net/downloads/) Page.
 
-<If you are a Linux user then please make sure to run this script>
+<If you are a Linux user, then please make sure to run this script>
 
 If you already have the latest Desktop Wallet installed and configured, then you can skip this step.
 
@@ -32,7 +32,7 @@ If you are using the Desktop Wallet for the first time, you will see the followi
 
 <Screenshot of a Desktop Wallet which is used for the first time>
 
-To configure your Skywallet, proceed to click on **“Using a hardware wallet?”** button.
+To configure your Skywallet, proceed to click on ** “Using a hardware wallet?”** button.
 
 <Screenshot of a Desktop Wallet highlighting “Using a hardware wallet?” button>
 
@@ -40,7 +40,7 @@ On pressing “Using a hardware wallet?” button, the display screen on Skywall
 
 <Reusing the Picture showing the Skywallet display with the welcome message>
 
-In order to configure your Skywallet for the first time, you have to install the firmware for the Skywallet, as explained in [step #4](#Step_4) .
+To configure your Skywallet for the first time, you have to install the firmware for the Skywallet, as explained in [step #4](#Step_4).
 
 ### Step 3.2: Previously Configured Desktop Wallet
 
@@ -50,11 +50,11 @@ If you are **not** using your Desktop Wallet for the first time, then on connect
 
 The window will display all your Wallets that are already configured using your Desktop Wallet. (*Note - This may include both Hardware and Software Wallets*)
 
-To configure your Skywallet click on the **"Hardware Wallet"** button.
+To configure your Skywallet click on the ** “Hardware Wallet”** button.
 
 <Screenshot highlighting the Hardware wallet button along with the context>
 
-On pressing "Hardware Wallet" button, the display screen on Skywallet will show a welcome message:
+On pressing “Hardware Wallet” button, the display screen on Skywallet will show a welcome message:
 
 <Reusing the Picture showing the Skywallet display with the welcome message>
 
@@ -64,13 +64,13 @@ Once the welcome message is displayed on the Skywallet screen, you can proceed t
 
 Once the welcome message is displayed on the Skywallet, the Desktop Wallet will show the following window:
 
-<Screenshot of the Desktop Wallet showing the message about the installation of the Firmware>
+<Screenshot of the Desktop Wallet showing the message about the installation of the firmware>
 
 You can click on continue to start installing the firmware for your Skywallet.
 
 The installation process would take a few seconds to complete. 
 
-Once the installation is complete you can proceed to configure the Skywallet.
+Once the installation is complete, you can proceed to configure the Skywallet.
 
 **Note - If the installation process gets abruptly terminated for any reasons, you can disconnect the Skywallet, close the Desktop Wallet and then restart the whole process from the start.**
 
@@ -84,23 +84,23 @@ Simultaneously, the following window will be displayed by the Desktop Wallet.
 
 <Screenshot of Desktop Wallet displaying the message of detecting an unconfigured hardware wallet>
 
-In this window you can select two options :
+In this window, you can select two options :
 
-**"Configure automatically"**
+** “Configure automatically”**
 
 **"Restore backup"**
 
 ### Step 4.1: Configure automatically
 
-If you are using a Skywallet for the **first** time, then you can proceed with the option of "Configure Automatically".
+If you are using a Skywallet for the **first** time, then you can proceed with the option of “Configure Automatically”.
 
-"Configure automatically" button will configure your Skywallet as a new one.
+“Configure automatically” button will configure your Skywallet as a new one.
 
 Once the configuration is complete, the following window will be displayed.
 
 <Screenshot of the configuration process completion>
 
-You can use this window to change the name of your Skywallet. After which you can click on the "Close" button to close the window.
+You can use this window to change the name of your Skywallet. After which you can click on the “Close” button to close the window.
 
 <Screenshot of a changed Skywallet name>
 
@@ -110,6 +110,6 @@ If you have already had a backup of previously used Skywallet and needs to resto
 
 The restoration process is explained in detail in this section - [Restore Configuration](https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration)
 
-In case if the Skywallet is **not** connected or not detected by your computer then the following error message will be displayed:
+In case if the Skywallet is **not** connected or not detected by your computer, then the following error message will be displayed:
 
 <Screenshot of the error message showing no Skywallet detected.>
