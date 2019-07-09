@@ -39,6 +39,21 @@ You can follow these steps to install the Skycoin Desktop Wallet on your Mac:
 
 * Once this is done, you can now open the Desktop Wallet by double-clicking the Wallet from the "Applications" folder.
 
+### Linux
+
+You can follow these steps to install the Skycoin Desktop Wallet on your Linux:
+
+* Click on the download link next to "Linux Installer(recommended)" to start downloading the AppImage file.
+
+* Once the AppImage file is downloaded, right-click the file.
+
+* After right-clicking on the file, click on "Properties" section.
+
+* Click on the "Permissions" tab and select "Allow executing file as program".
+
+* Close the window and double click on the AppImage file, to install the Wallet.
+
+
 ## Mobile Wallet
 
 ### iOS
