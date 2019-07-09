@@ -14,7 +14,7 @@ Tampering or damage can be anything from a small tear on the package to a packag
 
 ### A Tampered Shipment:
 
-<Optional picture of a tampered shipment which is not absolutely torn open but a small tear or hole so that the user will understand even such a small tamper can also spoil the device> <it can also be a general picture rather than a skywallet shipment>
+<Optional picture of a tampered shipment which is not torn open but a small tear or hole so that the user will understand even such a minute tamper can also spoil the device> <it can also be a general picture rather than a skywallet shipment>
 
 After opening the package, please ensure that the holographic sticker with the Skycoin logo on the Skywallet box is not broken.
 <A Picture of the unbroken holographic seal on the box>
@@ -23,7 +23,7 @@ After opening the package, please ensure that the holographic sticker with the S
 
 The Skywallet is built to provide maximum security to the user.
 
-However, it is important to check whether your Skywallet is not compromised before using it.
+However, it is vital to check whether your Skywallet is not compromised before using it.
 
 ## Step 1 - Connecting Your Skywallet
 
@@ -47,13 +47,13 @@ Along with the Skycoin Logo.
 
 A Skywallet that is being used for the first time will not have a firmware installed.
 
-Firmware is like the brain of a hardware device (in this case your Skywallet). It is the software interface which helps the hardware to interact with both the user as well as a computer. Thus without a firmware, your Skywallet will not work properly.
+Firmware is like the brain of a hardware device (in this case, your Skywallet). It is the software interface which helps the hardware to interact with both the user as well as a computer. Thus without a firmware, your Skywallet will not work correctly.
 
 Hence any message apart from this welcome message implies that your Skywallet has been tampered with by a third party. Thus if you get any message apart from the welcome message, proceed to disconnect the device and contact support immediately.
 
 ### Scenario 2:
 
-A previously used Skywallet may have a firmware initialized and if it has, then it might mean that it has been manipulated. Such a Skywallet will display the following message on its display screen:
+A previously used Skywallet may have a firmware initialized, and if it has, then it might mean that it has been manipulated. Such a Skywallet will display the following message on its display screen:
 
 **Need Seed!**
 
@@ -61,13 +61,13 @@ Along with the Skycoin Logo.
 
 <A picture of the Hardware wallet which displays the message NEED SEED>
 
-Getting a Need Seed! message on your first use means that your Skywallet is not a new one and has a firmware already initialized.
+If you get a "Need Seed!" message on your first use means that your Skywallet is not a new one and has a firmware already initialized.
 
-**Note - If you do get a Need Seed! message on your first use of the Skywallet then please refrain from using the device any further.**
+**Note - If you do get a Need Seed! message on your first use of the Skywallet, then please refrain from using the device any further.**
 
 Also for further assistance, **Please contact the support team immediately.**
 
-You can use the following Link to contact support: [Support Page](store.skycoin.net/pages/support)
+You can use the following link to contact support: [Support Page](store.skycoin.net/pages/support)
 
 Alternatively, you can detail your concerns and send an email to **support@skycoin.zendesk.com**
 
@@ -77,14 +77,14 @@ The third and final message that might be displayed is a warning:
 
 **Unofficial Firmware Detected**
 
-denoting that the Skywallet is running on a firmware that is not approved by Skycoin. 
+such a message denote that the Skywallet is running on a firmware that is not approved by Skycoin. 
 
-Do **not** use a Skywallet displaying that warning as the software version on your Skywallet might be corrupted and it is ***unsafe*** to use the Skywallet, as using the said Skywallet could potentially make you lose your coins.
+Do **not** use a Skywallet displaying that warning as the software version on your Skywallet might be corrupted, and it is ***unsafe*** to use the Skywallet, as using the said Skywallet could potentially make you lose your coins.
 
 <A picture showing the message Unofficial firmware detected>
   
 **Please note that if you get an Unofficial Firmware Detected message on your Skywallet then immediately disconnect the device and contact the Skycoin support.**
 
-You can use the following Link to the [Support page](store.skycoin.net/pages/support).
+You can use the following link to the [Support page](store.skycoin.net/pages/support).
 
 Alternatively, you can detail your concerns and send an email to **support@skycoin.zendesk.com**
