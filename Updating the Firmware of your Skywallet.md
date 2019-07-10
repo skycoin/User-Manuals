@@ -4,11 +4,11 @@ The firmware of your Skywallet is its user interface. A brand new Skywallet will
 
 Hence the first thing you have to do when you receive your Skywallet is to install its firmware. Once installed, the firmware of your Skywallet also needs periodic updates.
 
-It is important you do these updates otherwise you would not benefit from the latest security features and upgrades, ultimately putting your coins under risk of security threats. Also at times the firmware updates are made to improve the funtionality of your Skywallet.
+It is essential you do these updates; otherwise, you would not benefit from the latest security features and upgrades, ultimately putting your coins under risk of security threats. Also, at times, the firmware updates are made to improve the functionality of your Skywallet.
 
 ## Knowing when to Update:
 
-The Skywallet is designed to store your coins on a long term basis. However, it is important to connect your Skywallet periodically to check for an available firmware update.
+The Skywallet is designed to store your coins on a long term basis. However, it is essential to connect your Skywallet periodically to check for an available firmware update.
 
 To check this, you can connect your Skywallet to your computer and open the Hardware Wallet window from the Desktop Wallet.
 
@@ -22,7 +22,7 @@ If you ignore this dialogue box, the warning message will continue to be display
 
 ## Updating your Firmware:
 
-**Warning - Before you start updating your firmware, ensure that you have backed up the Seed of your Skywallet. It is important that you have the backup of the Seed because once the update is complete you will be needing the Seed to restore your coins.**
+**Warning - Before you start updating your firmware, ensure that you have backed up the Seed of your Skywallet. It is vital that you have the backup of the Seed because once the update is complete, you will need the Seed to restore your coins.**
 
 ***If you need assistance on how to backup the Seed, visit the following link - [Personalization of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/Getting-to-know-the-wallet).***
 
@@ -42,7 +42,7 @@ Once you have clicked on either the "Update" button or "Update Firmware" button,
 
 The warning message will also ask you to connect your Skywallet in bootloader mode.
 
-In order to connect your Skywallet in bootloader mode, you have to follow these steps:
+To connect your Skywallet in bootloader mode, you have to follow these steps:
 
 **Step 1 - Disconnect your Skywallet from the computer.**
 
