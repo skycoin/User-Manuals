@@ -1,12 +1,12 @@
 # Restoring Backup with an Existing Seed
 
-If you have bought a brand new Skywallet and wish to restore the backup of another Skywallet then you can utilize the "Restore Backup" feature during the initialization of your Skywallet.
+If you have bought a brand new Skywallet and wish to restore the backup of another Skywallet, then you can utilize the "Restore Backup" feature during the initialization of your Skywallet.
 
-In order to restore your coins, you only need Seed of the other Skywallet.
+To restore your coins, you only need Seed of the other Skywallet.
 
 ***A Seed is a combination of 12 or 24 words which serves as the key to access your Skywallet.***
 
-**NOTE - You can use the Seed of a Skywallet on another Skywallet but it is not recommended to use the same Seed for a Desktop Wallet, as this could comprise the security of your Skywallet.**
+**NOTE - You can use the Seed of a Skywallet on another Skywallet, but it is not recommended to use the same Seed for a Desktop Wallet, as this could comprise the security of your Skywallet.**
 
 To begin the restoration process follow these steps:
 
@@ -17,7 +17,7 @@ Connect the new Skywallet to your computer.
 
 ### Step 2
 
-Once the Skywallet is connected, a welcome message can be seen on its display. This also denotes the genuineness of your Skywallet. 
+Once the Skywallet is connected, a welcome message can be seen on its display, which also denotes the genuineness of your Skywallet. 
 
 If you want to know more how to check the genuineness of your Skywallet. Please visit the following link - [Checking the Genuineness of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/How-to-check-whether-device-is-genuine)
 
@@ -55,15 +55,15 @@ Proceed to click on the **Restore backup** button.
 
 <Reusing the last screenshot with Restore backup button highlighted>
 
-Upon clicking this button the Skywallet will start asking you to enter each words of your Seed by their position.
+Upon clicking this button, the Skywallet will start asking you to enter each words of your Seed by their position.
 <Image of the Skywallet asking to enter a word at a particular position>
 
-**The sequence of these positions will be random, i.e. the first word asked to be entered might be the word at position #6 but the next word might be the word at position #11 and so on.**
+**The sequence of these positions will be random, i.e., the first word asked to be entered might be the word at position #6, but the next word might be the word at position #11 and so on.**
 
 <At least two images to show the random nature of the Seed entering process>
 
 **The Skywallet might also ask you to enter random words that are not part of your Seed as well.**
-<Image of the Skywallet asking the user to enter a random word>
+<Image of the Skywallet requesting the user to enter a random word>
 
 **The random sequence of words and the random words are a security precaution and because of this security measures it can be ensured that a potential hacker/malware, who has access to your computer does get neither the full Seed nor right sequence of the Seed.**
 
@@ -75,4 +75,4 @@ You can also rename your Skywallet using this window.
 
 <Reusing the last screenshot with the name of the wallet edited>
 
-However, if you fail to enter either the random words correctly, or incorrectly enter the words of your Seed, the process will fail and you will have to restart the procedure from the beginning.
+However, if you fail to enter either the random words correctly, or incorrectly enter the words of your Seed, the process will fail, and you will have to restart the procedure from the beginning.
