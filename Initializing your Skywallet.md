@@ -32,7 +32,7 @@ If you are using the Desktop Wallet for the first time, you will see the followi
 
 <Screenshot of a Desktop Wallet which is used for the first time>
 
-To configure your Skywallet, proceed to click on ** “Using a hardware wallet?”** button.
+To configure your Skywallet, proceed to click on **“Using a hardware wallet?”** button.
 
 <Screenshot of a Desktop Wallet highlighting Using a hardware wallet button>
 
@@ -50,7 +50,7 @@ If you are **not** using your Desktop Wallet for the first time, then on connect
 
 The window will display all your Wallets that are already configured using your Desktop Wallet. (*Note - This may include both Hardware and Software Wallets*)
 
-To configure your Skywallet click on the ** “Hardware Wallet”** button.
+To configure your Skywallet click on the **“Hardware Wallet”** button.
 
 <Screenshot highlighting the Hardware Wallet button along with the context>
 
