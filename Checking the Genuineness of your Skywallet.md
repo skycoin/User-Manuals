@@ -31,7 +31,7 @@ As the first step, you have to connect the Skywallet to your USB port.
 
 ## Step 2 - Checking the message on your Skywallet's Display
 
-The display on your Skywallet shows one of the following three messages when connected via USB port, marking whether your Skywallet is authentic.
+The display on your Skywallet shows one of the following three messages when connected via USB port, marking the authenticity of your Skywallet.
 
 ### Scenario 1:
 
@@ -61,13 +61,13 @@ Along with the Skycoin Logo.
 
 <A picture of the Hardware wallet which displays the message NEED SEED>
 
-If you get a "Need Seed!" message on your first use means that your Skywallet is not a new one and has a firmware already initialized.
+If you get a "Need Seed!" message on your first use, it means that your Skywallet is not a new one and has a firmware already initialized.
 
 **Note - If you do get a Need Seed! message on your first use of the Skywallet, then please refrain from using the device any further.**
 
 Also for further assistance, **Please contact the support team immediately.**
 
-You can use the following link to contact support: [Support Page](store.skycoin.net/pages/support)
+You can use the following link to contact support: **[Support Page](store.skycoin.net/pages/support)**
 
 Alternatively, you can detail your concerns and send an email to **support@skycoin.zendesk.com**
 
@@ -85,6 +85,6 @@ Do **not** use a Skywallet displaying that warning as the software version on yo
   
 **Please note that if you get an Unofficial Firmware Detected message on your Skywallet then immediately disconnect the device and contact the Skycoin support.**
 
-You can use the following link to the [Support page](store.skycoin.net/pages/support).
+You can use the following link to the **[Support page](store.skycoin.net/pages/support)**.
 
 Alternatively, you can detail your concerns and send an email to **support@skycoin.zendesk.com**
