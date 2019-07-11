@@ -14,7 +14,7 @@ Tampering or damage can be anything from a small tear on the package to a packag
 
 ### A Tampered Shipment:
 
-<Optional picture of a tampered shipment which is not torn open but a small tear or hole so that the user will understand even such a minute tamper can also spoil the device> <it can also be a general picture rather than a skywallet shipment>
+<Optional picture of a tampered shipment which is not torn open but a small tear or hole so that the user will understand even such a minute tamper can also spoil the device> <it can also be a general picture rather than a Skywallet shipment>
 
 After opening the package, please ensure that the holographic sticker with the Skycoin logo on the Skywallet box is not broken.
 <A Picture of the unbroken holographic seal on the box>
@@ -43,7 +43,7 @@ If the Skywallet is a genuine one and is being used for the first time, then the
 
 Along with the Skycoin Logo.
 
-<A photo of the Hardware wallet displaying the welcome message>
+<A photo of the Hardware Wallet displaying the welcome message>
 
 A Skywallet that is being used for the first time will not have a firmware installed.
 
@@ -59,7 +59,7 @@ A previously used Skywallet may have a firmware initialized, and if it has, then
 
 Along with the Skycoin Logo.
 
-<A picture of the Hardware wallet which displays the message NEED SEED>
+<A picture of the Hardware Wallet which displays the message NEED SEED>
 
 If you get a "Need Seed!" message on your first use, it means that your Skywallet is not a new one and has a firmware already initialized.
 
