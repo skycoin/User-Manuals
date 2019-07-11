@@ -57,7 +57,7 @@ After completing the display of the words in the Seed, the screen displays ***al
 
 **Note - After completing the Backup process, you cannot repeat the same. Hence it is essential to note the Seed down during this process. Once you have completed the backup process, the "Create a backup" button will be replaced by "Confirm Seed" button.**
 
-Also to ensure optimal security of your funds, please make sure to go through this section of the user manual - (Optimize account security)[https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security]
+Also to ensure optimal security of your funds, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
 
 ## Create  PIN code
 
@@ -93,9 +93,9 @@ However, if you are using the number pad then note that **the position of the nu
 
 ***Note - While setting up your PIN you have to enter it twice.***
 
-After setting up your PIN, you can manage the PIN by changing or deleting the same. You can read more about it in this section (Managing your PIN)[https://github.com/skycoin/hardware-wallet/wiki/Manage-the-PIN-code]
+After setting up your PIN, you can manage the PIN by changing or deleting the same. You can read more about it in this section [Managing your PIN](https://github.com/skycoin/hardware-wallet/wiki/Manage-the-PIN-code)
 
-Also to ensure optimal security for your funds, please make sure to go through this section of the user manual - (Optimize account security)[https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security]
+Also to ensure optimal security for your funds, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
 
 ## Wipe the device
 
@@ -107,4 +107,4 @@ While confirming, note that there is an option to remove the Skywallet from your
 
 After confirming the warning message to wipe the device, **all the data in your Skywallet will be erased except for the firmware updates.** The firmware updates of your Skywallet cannot be deleted and will remain the same as before even after the deletion process.
 
-You can also restore all your coins by using the Seed of a previously configured Skywallet, details on how to restore your Skywallet are available on this section (Restore Backup)[https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration].
+You can also restore all your coins by using the Seed of a previously configured Skywallet, details on how to restore your Skywallet are available on this section [Restore Backup](https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration).
