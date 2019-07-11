@@ -48,7 +48,7 @@ If you are **not** using your Desktop Wallet for the first time, then on connect
 
 <Screenshot of a previously configured Desktop Wallet with other Wallets as well>
 
-The window will display all your Wallets that are already configured using your Desktop Wallet. (*Note - This may include both Hardware and Software Wallets*)
+The window will display a list of all the Wallets that are already configured using your Desktop Wallet. (*Note - This may include both Hardware and Software Wallets*)
 
 To configure your Skywallet click on the **“Hardware Wallet”** button.
 
