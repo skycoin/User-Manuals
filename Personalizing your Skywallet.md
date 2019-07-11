@@ -36,9 +36,9 @@ The Seed of your Skywallet is a key component. A Seed is the only way to access 
 
 Once the initialization is complete, it is essential to backup this Seed and store it in a secure location.
 
-To backup the Seed of your skywallet, click on the button **"Create a backup"**.
+To backup the Seed of your Skywallet, click on the button **"Create a backup"**.
 
-<Screenshot of the hardware wallet window with an arrow pointing towards the create a backup button or highlighting the button>
+<Screenshot of the Hardware Wallet window with an arrow pointing towards the create a backup button or highlighting the button>
 
 Once you click the button, a warning message(?) will be displayed.
 
@@ -107,4 +107,4 @@ While confirming, note that there is an option to remove the Skywallet from your
 
 After confirming the warning message to wipe the device, **all the data in your Skywallet will be erased except for the firmware updates.** The firmware updates of your Skywallet cannot be deleted and will remain the same as before even after the deletion process.
 
-You can also restore all your coins by using the Seed of a previously configured Skywallet, details on how to restore your Wallet are available on this section (Restore Backup)[https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration].
+You can also restore all your coins by using the Seed of a previously configured Skywallet, details on how to restore your Skywallet are available on this section (Restore Backup)[https://github.com/skycoin/hardware-wallet/wiki/Restore-configuration].
