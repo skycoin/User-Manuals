@@ -1,16 +1,16 @@
 # Initializing your Skywallet
 
-On successfully ensuring the genuineness of your Skywallet, you can begin with the initialization of it.
+On successfully ensuring the genuineness of your Skywallet, you can begin with the initialization of your Skywallet.
 
 ## Step 1 :
 
 The first step in initializing your Skywallet is to install the Skycoin Desktop Wallet.
 
-The Skycoin Desktop Wallet is used for the interaction between the Skywallet and the User.
+The Desktop Wallet is used for the interaction between the Skywallet and the User.
 
 Please make sure to download the latest compatible version from the Skycoin [Downloads](https://www.skycoin.net/downloads/) Page.
 
-<If you are a Linux user, then please make sure to run this script>
+<If you are a Linux user then please make sure to run this script>
 
 If you already have the latest Desktop Wallet installed and configured, then you can skip this step.
 
@@ -34,7 +34,7 @@ If you are using the Desktop Wallet for the first time, you will see the followi
 
 To configure your Skywallet, proceed to click on ** “Using a hardware wallet?”** button.
 
-<Screenshot of a Desktop Wallet highlighting “Using a hardware wallet?” button>
+<Screenshot of a Desktop Wallet highlighting Using a hardware wallet button>
 
 On pressing “Using a hardware wallet?” button, the display screen on Skywallet will show a welcome message:
 
@@ -46,13 +46,13 @@ To configure your Skywallet for the first time, you have to install the firmware
 
 If you are **not** using your Desktop Wallet for the first time, then on connecting the Skywallet via USB, the following window will be displayed.
 
-<Screenshot of a previously configured Desktop Wallet with other wallets as well>
+<Screenshot of a previously configured Desktop Wallet with other Wallets as well>
 
 The window will display all your Wallets that are already configured using your Desktop Wallet. (*Note - This may include both Hardware and Software Wallets*)
 
 To configure your Skywallet click on the ** “Hardware Wallet”** button.
 
-<Screenshot highlighting the Hardware wallet button along with the context>
+<Screenshot highlighting the Hardware Wallet button along with the context>
 
 On pressing “Hardware Wallet” button, the display screen on Skywallet will show a welcome message:
 
@@ -82,11 +82,11 @@ Once the firmware installation is complete, the “NEEDS SEED!” message is dis
 
 Simultaneously, the following window will be displayed by the Desktop Wallet.
 
-<Screenshot of Desktop Wallet displaying the message of detecting an unconfigured hardware wallet>
+<Screenshot of Desktop Wallet displaying the message of detecting an unconfigured Hardware Wallet>
 
 In this window, you can select two options :
 
-** “Configure automatically”**
+**“Configure automatically”**
 
 **"Restore backup"**
 
@@ -112,4 +112,4 @@ The restoration process is explained in detail in this section - [Restore Config
 
 In case if the Skywallet is **not** connected or not detected by your computer, then the following error message will be displayed:
 
-<Screenshot of the error message showing no Skywallet detected.>
+<Screenshot of the error message showing no Skywallet detected>
