@@ -2,8 +2,6 @@
 
 Once you have made the backup of a Seed, this Seed can be used to access your Skywallet. 
 
-**NOTE - The Seed generated for a Skywallet can only be used with a Skywallet. You cannot use this Seed in the Desktop Wallet.**
-
 If you want to check, whether a Seed you have written down belongs to a given Skywallet, you can use the **Confirm Seed** button. This is a security procedure to check whether the backup has been successful.
 
 The "Confirm Seed" button will not be available when you are using your Skywallet for the first time. Instead, you will see the button **Create Backup**.
