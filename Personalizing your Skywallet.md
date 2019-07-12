@@ -40,7 +40,7 @@ To backup the Seed of your Skywallet, click on the button **"Create a backup"**.
 
 <Screenshot of the Hardware Wallet window with an arrow pointing towards the create a backup button or highlighting the button>
 
-Once you click the button, a warning message(?) will be displayed.
+Once you click the "Create a backup" button, a warning message(?) will be displayed.
 
 After accepting this warning message, the Skywallet will start to display the words in your Seed one by one.
 
@@ -65,7 +65,7 @@ Creating a PIN code for your Skywallet enhances its security, as only a person w
 
 To create a PIN for your Skywallet for the first time, click on the button - **Create PIN code**
 
-Once you click on the button the following window will appear on the Desktop Wallet:
+Once you click on the button "Create PIN code" the following window will appear on the Desktop Wallet:
 
 <Screenshot showing the window to create a PIN> 
 <it is mentioned in the wiki page that the hash symbol which is currently used to mask the numbers in the keypad will be changed to dot, if so then the latest version screenshot will be needed>
