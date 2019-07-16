@@ -20,7 +20,7 @@ To get the address of the Skywallet, follow these steps :
 
 **Step 2** - Open the Desktop Wallet from your computer.
 
-**Step 3** - The window will display the list of all the Wallets configured using your Desktop Wallet. From this list, you can click on your Skywallet name to get the Wallet address of your Skywallet.
+**Step 3** - The window will display the list of all the Wallets configured using your Desktop Wallet. From this list, you can click on your Skywallet name to get the address of your Skywallet.
 
 However, only the partial address will be visible for you.
 
@@ -36,7 +36,7 @@ Once you have clicked on the "Press to Show" button, the address of the Skywalle
 
 **NOTE - Please check whether both these addresses are the same. If they are not the same, then cancel the operation and stop using the Skywallet. Immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
 Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
-It is imperative you do this as showing different addresses means your Wallets might have been compromised and using the same would lead you to the loss of your Coins.**
+It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your Coins.**
 
 **Wallets Showing Different Addresses**
 
@@ -98,7 +98,7 @@ To send Coins from your Skywallet using the Simple Send option, you only need th
  **NOTE - Please make sure that the receiving Wallet address entered by you and the one displayed by the Skywallet in the confirmation message is the same.  
  If it is not the same, abort the whole process and stop using the Skywallet and immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
 Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
- It is imperative you do this as showing different addresses means your Wallets might have been compromised and using the same would lead you to the loss of your Coins.**
+ It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your Coins.**
 
 **Step 10** - After you verify both the address you have entered in the Desktop Wallet and the one displayed by the Skywallet in its confirmation message is the same, you can confirm the operation on your Skywallet to send the Coins. 
  
@@ -147,7 +147,7 @@ Follow the steps below to send Coins using the "Advanced Send" option.
 
 **Warning - Thoroughly verify the addresses of the receiving Wallets, as entering wrong addresses could result in loss of your Coins.**
 
-**Step 12** - After verifying the entered data, you can proceed to enter the Change address. If you wish to use a Wallet from the Wallet list, you can click on the "Select" drop-down.
+**Step 12** - After verifying the entered data, you can proceed to enter the change address. If you wish to use a Wallet from the Wallet list for the change address, you can click on the "Select" drop-down.
 <Screenshot highlighting the change address box and showing the Wallet list by highlighting and clicking on the drop down>
 
 **Step 13** - In the final box named "Personal Notes", you can add a message which will appear as a remark once the transaction is completed and it appears in the transaction history.
@@ -167,4 +167,4 @@ Follow the steps below to send Coins using the "Advanced Send" option.
  **NOTE - Please make sure that the receiving Wallet addresses entered by you and those displayed by the Skywallet in the confirmation message are the same.  
 If they are not the same, abort the whole process and stop using the Skywallet and immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
 Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
-It is imperative you do this as showing different addresses means your Wallets might have been compromised and using the same would lead you to the loss of your Coins.**
+It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your Coins.**
