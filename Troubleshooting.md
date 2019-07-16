@@ -12,7 +12,7 @@ If your Skywallet is lost or stolen, the recommended solution is to **get a new 
 
 Once you got the new Skywallet, then restore the Coins using the Seed of your old Skywallet.
 
-Even though **not a recommended** method, as an emergency step, you can also create a new software Wallet using your Desktop Wallet to restore the lost Skywallet.
+Even though **not a recommended** method, as an emergency step, you can also create a new Desktop Wallet to restore the lost Skywallet.
 
 This method is unrecommended and should only be opted as a last resort, as entering the Seed of your Skywallet into any electronic device could potentially compromise the security of the Seed of your Skywallet and hence putting your Coins at risk.
 
@@ -33,7 +33,7 @@ You can visit the following chapter to know more about setting a PIN and the sec
 
 The issue of "Too many Transactions" occurs when you try to do a send transaction.
 
-When you try to send Coins to another Wallet and if the particular transaction is having too many inputs or too many outputs, then an error message will be displayed upon pressing the "Preview" button or the "Send" button.
+When you try to send Coins to a Wallet and if the particular transaction is having too many inputs or too many outputs, then an error message will be displayed upon pressing the "Preview" button or the "Send" button.
 <Screenshot of the error message>
 
 To rectify this error, you can split up your transaction into multiple transactions and then send the Coins.
