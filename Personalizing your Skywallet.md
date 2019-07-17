@@ -93,7 +93,33 @@ However, if you are using the number pad then note that **the position of the nu
 
 ***Note - While setting up your PIN you have to enter it twice.***
 
-After setting up your PIN, you can manage the PIN by changing or deleting the same. You can read more about it in this section [Managing your PIN](https://github.com/skycoin/hardware-wallet/wiki/Manage-the-PIN-code)
+After setting up your PIN, you can manage the PIN by changing or deleting the same. 
+
+**Changing the PIN code**
+
+Once you have done creating the PIN code, the Hardware Wallet window will show the following options:
+<Screenshot of the Hardware Wallet window highlighting change PIN code option>
+
+You can use the **Change PIN Code** option to change your current PIN code to a new one.
+
+Upon clicking the "Change PIN Code" button, the Hardware Wallet window will show you a keypad similar to the one you used to create the PIN code.
+<Picture of the Hardware wallet showing the number matrix>
+<Screenshot of the Desktop Wallet showing the keypad>
+
+You can enter the PIN code by utilizing the number matrix displayed by the Skywallet, same way as you did for creating the PIN code.
+
+To change the PIN code, you have to enter the current PIN code first and then the new PIN code twice. 
+
+**Deleting the PIN code**
+
+To improve the security of your Skywallet, it is recommended that your Skywallet should always have a PIN code.
+
+However, you can choose to delete the PIN code of your Skywallet using the Hardware Wallet window.
+<Screenshot of the Hardware Wallet window with Delete PIN code button highlighted>
+
+To delete the PIN code of your Skywallet, you can click on the **Delete PIN Code** button. 
+
+After accepting the confirmation message, the PIN code of your Skywallet will be deleted.
 
 Also to ensure optimal security for your funds, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
 
