@@ -35,3 +35,5 @@ When you try to send Coins to a Wallet and if the particular transaction has too
 <Screenshot of the error message>
 
 To still transfer your funds, you can split up your transaction into multiple transactions and then send the Coins.
+
+**Note - This issue will be fixed in a future update.**
