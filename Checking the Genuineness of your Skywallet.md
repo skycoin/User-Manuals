@@ -12,10 +12,6 @@ Tampering or damage can be anything from a small tear on the package to a packag
 
 <A Picture of an untampered shipment before opening>
 
-### A Tampered Shipment:
-
-<Optional picture of a tampered shipment which is not torn open but a small tear or hole so that the user will understand even such a minute tamper can also spoil the device> <it can also be a general picture rather than a Skywallet shipment>
-
 After opening the package, please ensure that the holographic sticker with the Skycoin logo on the Skywallet box is not broken.
 <A Picture of the unbroken holographic seal on the box>
 
