@@ -21,36 +21,36 @@ However, you can also perform some additional operations on your Skywallet like:
 **Step 2** - Open your Desktop Wallet from your computer.
 
 **Step 3** - A window will show the list of all the Wallets configured using your Desktop Wallet.
-<Screenshot of the window showing all the Wallets in the Wallet list>
+<can be removed> <Screenshot of the window showing all the Wallets in the Wallet list>
 
 **Step 4** - Select the particular Skywallet which you wish to rename.
-<Screenshot highlighting a single Skywallet from the Wallet list>
+<can be removed> <Screenshot highlighting a single Skywallet from the Wallet list>
 
 **Step 5** - Click on the **Edit Wallet** button.
-<Screenshot highlighting the Edit Wallet button>
+<can be removed> <Screenshot highlighting the Edit Wallet button>
 
 **Step 6** - Once you click on the "Edit Wallet" button a window to edit the name of your Skywallet will appear.
-<Screenshot of the window to rename the Wallet>
+<can be removed> <Screenshot of the window to rename the Wallet>
 
 **Step 7** - Enter a name for your Skywallet and click on the **Rename** button to confirm.
-<Reusing the last Screenshot of the window with the rename button highlighted>
+<can be removed> <Reusing the last Screenshot of the window with the rename button highlighted>
 
 You can check your Skywallet in the Wallet list to see the changed name.
-<Screenshot of the Skywallet in the Wallet list with the changed name>
+<can be removed> <Screenshot of the Skywallet in the Wallet list with the changed name>
 
 ## Removing a Skywallet from the Wallet List
 
 **Step 1** - Open your Desktop Wallet from your computer.
-<Screenshot of the Desktop Wallet window showing the Wallet list>
+<can be removed> <Screenshot of the Desktop Wallet window showing the Wallet list>
 
 **Step 2** - Select the Skywallet you want to remove from the Wallet list.
-<Screenshot of the highlighted selection of the Wallet from the Wallet list>
+<can be removed> <Screenshot of the highlighted selection of the Wallet from the Wallet list>
 
 **Step 3** - Click on the **Delete Wallet** button from the window.
-<Screenshot of the Desktop Wallet window highlighting the Delete Wallet button>
+<can be removed> <Screenshot of the Desktop Wallet window highlighting the Delete Wallet button>
 
 **Step 4** - Confirm the operation by ticking the box **Yeah, I want to delete the Wallet** and clicking on the **Yes** button.
-<Screenshot of the confirmation dialogue box>
+<can be removed> <Screenshot of the confirmation dialogue box>
 
 **NOTE 1 - To remove a Skywallet from the Wallet list you don't need to connect it to your computer necessarily.**
 
@@ -70,10 +70,10 @@ To check the current firmware version of your Skywallet, you can follow these st
 **Step 2** - Open the Desktop Wallet from your computer.
 
 **Step 3** - A window will show you the list of all the Wallets configured using your Desktop Wallet.
-<Screenshot of the highlighted selection of the Wallet from the Wallet list>
+<can be removed> <Screenshot of the highlighted selection of the Wallet from the Wallet list>
 
 **Step 4** - Select your Skywallet from the Wallet list.
-<Screenshot of the Desktop Wallet window highlighting the Skywallet from the list>
+<can be removed> <Screenshot of the Desktop Wallet window highlighting the Skywallet from the list>
 
 **Step 5** - You can check for the firmware version in the following window, which appears when you select the Skywallet from the Wallet list.
 <Screenshot of the Hardware Wallet window with the firmware version highlighted>
