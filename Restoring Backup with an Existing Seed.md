@@ -1,15 +1,14 @@
 # Restoring Backup with an Existing Seed
 
-If you have bought a brand new Skywallet and wish to restore the backup of another Skywallet, then you can utilize the "Restore Backup" feature during the initialization of your Skywallet.
+If you have bought a brand new Skywallet and wish to restore the backup of another Skywallet, then you can utilize the "Restore Backup" option during the initialization of your Skywallet.
 
-To restore your coins, you only need Seed of the other Skywallet.
+To restore your coins, you only need the Seed of the other Skywallet.
 
 ***A Seed is a combination of 12 or 24 words which serves as the key to access your Skywallet.***
 
 **NOTE - You can use the Seed of a Skywallet on another Skywallet, but it is not recommended to use the same Seed for a Desktop Wallet, as this could comprise the security of your Skywallet.**
 
 To begin the restoration process follow these steps:
-
 
 ### Step 1 
 
@@ -35,7 +34,7 @@ If it is your first-time use of the Desktop Wallet, then the following window wi
 
 Proceed to click on the **Using a hardware wallet?** button.
 
-<Reusing the last screenshot with the using a Hardware Wallet button highlighted>
+<can be removed> <Reusing the last screenshot with the using a Hardware Wallet button highlighted>
 
 If it is not your first-time use of the Desktop Wallet, then all the Wallets configured using your Desktop Wallet will appear in a list.
 
@@ -43,17 +42,17 @@ If it is not your first-time use of the Desktop Wallet, then all the Wallets con
 
 In this case, proceed to click on the **Hardware Wallet** button.
 
-<Reusing the last screenshot with the Hardware Wallet button highlighted>
+<can be removed> <Reusing the last screenshot with the Hardware Wallet button highlighted>
 
 ### Step 4
 
 Once you have clicked either "Using a hardware wallet?" button or "Hardware Wallet" button, the following window will be displayed by your Desktop Wallet.
 
-<Screenshot  of the Hardware Wallet window>
+<can be removed> <Screenshot  of the Hardware Wallet window>
 
 Proceed to click on the **Restore backup** button.
 
-<Reusing the last screenshot with Restore backup button highlighted>
+<can be removed> <Reusing the last screenshot with Restore backup button highlighted>
 
 Upon clicking "Restore backup" button, the Skywallet will start asking you to enter each words of your Seed by their position.
 <Image of the Skywallet asking to enter a word at a particular position>
@@ -69,10 +68,10 @@ Upon clicking "Restore backup" button, the Skywallet will start asking you to en
 
 If you have successfully entered both the random words and the words in your Seed according to their position, the Desktop Wallet will display a confirmation window that your new Skywallet was added to the Wallet list.
 
-<Screenshot of the confirmation window from the Desktop Wallet>
+<can be removed> <Screenshot of the confirmation window from the Desktop Wallet>
 
 You can also rename your Skywallet using this window.
 
-<Reusing the last screenshot with the name of the Wallet edited>
+<can be removed> <Reusing the last screenshot with the name of the Wallet edited>
 
 However, if you fail to enter either the random words correctly, or incorrectly enter the words of your Seed, the process will fail, and you will have to restart the procedure from the beginning.
