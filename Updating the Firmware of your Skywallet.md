@@ -2,9 +2,10 @@
 
 The firmware of your Skywallet is its user interface. A brand new Skywallet will not have a firmware installed.
 
-Hence the first thing you have to do when you receive your Skywallet is to install its firmware. Once installed, the firmware of your Skywallet also needs periodic updates.
+Hence the first thing you have to do when you receive your Skywallet is to install the firmware. Once installed, the firmware of your Skywallet also needs periodic updates.
 
-It is essential you do these updates; otherwise, you would not benefit from the latest security features and upgrades, ultimately putting your coins under risk of security threats. Also, at times, the firmware updates are made to improve the functionality of your Skywallet.
+It is essential you do these updates; otherwise, you would not benefit from the latest security features and upgrades, ultimately putting your coins under risk of security threats.  
+Also, at times, the firmware updates are made to improve the functionality of your Skywallet.
 
 ## Knowing when to Update:
 
@@ -28,17 +29,17 @@ If you ignore this dialogue box, the warning message will continue to be display
 
 Once you have completed the backup of your Seed, you can proceed to update the firmware.
 
-You can begin by clicking on the **Update** button from the following dialogue box which appears right after you connect your Skywallet to the computer:
+You can begin by clicking on the **Update** button from the dialogue box which appears right after you connect your Skywallet to the computer.
 
-<Reusing the Screenshot of the warning message dialogue box by highlighting the update button>
+<can be removed> <Reusing the Screenshot of the warning message dialogue box by highlighting the update button>
 
 If you have ignored this message and are in the Hardware Wallet option window, you can click on the **Update Firmware** button.
 
-<Reusing the screenshot of the warning message in the Hardware Wallet window by highlighting the update firmware button>
+<can be removed> <Reusing the screenshot of the warning message in the Hardware Wallet window by highlighting the update firmware button>
 
-Once you have clicked on either the "Update" button or "Update Firmware" button, the following dialogue box with the warning message to **Backup your Seed** will appear on your computer:
+Once you have clicked on either the "Update" button or "Update Firmware" button, a dialogue box with the warning message to **Backup your Seed** will appear on your computer:
 
-<Warning message to start the device in bootloader mode and backup the Seed>
+<can be removed> <Warning message to start the device in bootloader mode and backup the Seed>
 
 The warning message will also ask you to connect your Skywallet in bootloader mode.
 
