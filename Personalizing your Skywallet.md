@@ -1,22 +1,50 @@
 # Personalizing your Skywallet
 
-After completing the initialization of your Skywallet, you can start to personalize your Skywallet using the Hardware Wallet window in the Desktop Wallet.
+After completing the initialization of your Skywallet, you can start to personalize your Skywallet using the Desktop Wallet.
 
-Upon configuring your Skywallet using your Desktop Wallet, the Skywallet will be listed in the Wallet list.
+Upon configuring your Skywallet, it will be listed in the Wallet list. The list can be viewed when you open your Desktop Wallet.
 
-The list can be viewed when you open your Desktop Wallet.
+<can be removed> <Screenshot of the list of Wallets displayed when the Desktop Wallet is opened. One of the Wallets in the list needs to be a Skywallet>
 
-<Screenshot of the list of Wallets displayed when the Desktop Wallet is opened. One of the Wallets in the list needs to be a Skywallet>
+To personalize your Skywallet, connect your Skywallet via USB to your computer and then open the Desktop Wallet.
 
-To personalize your Skywallet, you have to click on the **Hardware Wallet** button.
+Once the Desktop Wallet is opened, click on the **Hardware Wallet** button in the Desktop Wallet window.
 
-<Screenshot of the Desktop Wallet highlighting the Hardware Wallet button>
+<can be removed> <Screenshot of the Desktop Wallet highlighting the Hardware Wallet button>
 
 Once you click on the "Hardware Wallet" button, the following window will appear:
 
 <Screenshot of the Hardware Wallet window with the options available when the Skywallet is used after configuration for the first time>
 
-When you use the Skywallet for the first time, you will find these two warnings associated with **Creating a Backup** and **Setting a Pin** being displayed in the Desktop Wallet window.
+When you use the Skywallet for the first time, you will find two warnings associated with **Creating a Backup** and **Setting a Pin**, displayed in the Desktop Wallet window.
+
+Both of these warnings are to be dealt with seriously, or it may compromise the security of your Skywallet.
+
+To complete these two tasks, you can use the options in the Hardware Wallet window.
+
+Following are the options available in this window:
+
+**Create a backup**
+
+**Create PIN code**# Personalizing your Skywallet
+
+After completing the initialization of your Skywallet, you can start to personalize your Skywallet using the Desktop Wallet.
+
+Upon configuring your Skywallet, it will be listed in the Wallet list. The list can be viewed when you open your Desktop Wallet.
+
+<can be removed> <Screenshot of the list of Wallets displayed when the Desktop Wallet is opened. One of the Wallets in the list needs to be a Skywallet>
+
+To personalize your Skywallet, connect your Skywallet via USB to your computer and then open the Desktop Wallet.
+
+Once the Desktop Wallet is opened, click on the **Hardware Wallet** button in the Desktop Wallet window.
+
+<can be removed> <Screenshot of the Desktop Wallet highlighting the Hardware Wallet button>
+
+Once you click on the "Hardware Wallet" button, the following window will appear:
+
+<Screenshot of the Hardware Wallet window with the options available when the Skywallet is used after configuration for the first time>
+
+When you use the Skywallet for the first time, you will find two warnings associated with **Creating a Backup** and **Setting a Pin**, displayed in the Desktop Wallet window.
 
 Both of these warnings are to be dealt with seriously, or it may compromise the security of your Skywallet.
 
@@ -38,13 +66,11 @@ Once the initialization is complete, it is essential to backup this Seed and sto
 
 To backup the Seed of your Skywallet, click on the button **"Create a backup"**.
 
-<Screenshot of the Hardware Wallet window with an arrow pointing towards the create a backup button or highlighting the button>
+<can be removed> <Screenshot of the Hardware Wallet window with an arrow pointing towards the create a backup button or highlighting the button>
 
-Once you click the "Create a backup" button, a warning message(?) will be displayed.
+Once you click the "Create a backup" button, a warning message will be displayed.
 
 After accepting this warning message, the Skywallet will start to display the words in your Seed one by one.
-
-<The warning message needs to be more clearly mentioned and possibly with the screenshot of the warning message>
 <Picture of the Skywallet display screen showing different words in the Seed> <at least two pictures needed>
 
 **You need to note down each of these words and store it in a secure location.**
@@ -76,7 +102,7 @@ Simultaneously a number Matrix will be displayed on your Skywallet display scree
 
 To set the PIN, you have to use both the matrix as well as the Desktop Wallet window.
 
-**Each position of the number in the matrix corresponds to its position in the window shown by the Desktop Wallet.**
+**Each position of the number in the matrix corresponds to its position in the keypad shown by the Desktop Wallet window.**
 
 <A side by side picture of the two pictures mentioned above>
 
@@ -112,7 +138,7 @@ To change the PIN code, you have to enter the current PIN code first and then th
 
 **Deleting the PIN code**
 
-To improve the security of your Skywallet, it is recommended that your Skywallet should always have a PIN code.
+Ideally, a Skywallet should always have a PIN code, and it is a recommended precaution to improve the security of your Skywallet.
 
 However, you can choose to delete the PIN code of your Skywallet using the Hardware Wallet window.
 <Screenshot of the Hardware Wallet window with Delete PIN code button highlighted>
@@ -121,15 +147,15 @@ To delete the PIN code of your Skywallet, you can click on the **Delete PIN Code
 
 After accepting the confirmation message, the PIN code of your Skywallet will be deleted.
 
-Also to ensure optimal security for your funds, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
+To ensure optimal security for your funds, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
 
 ## Wipe the device
 
 **Wipe the device** button helps you to delete the data on your Skywallet.
 
-Once you click on the "Wipe the device" button, you will be asked for a confirmation message on both the Skywallet as well as Desktop Wallet.
+Once you click on the "Wipe the device" button, you will be asked to confirm the operation on both the Skywallet as well as Desktop Wallet.
 
-While confirming, note that there is an option to remove the Skywallet from your Wallet list in the Desktop Wallet. By default, this option will be checked, and if not unchecked, your Skywallet will be removed from the Wallet list.
+While confirming, note that there is an option to remove your Skywallet from the Wallet list in Desktop Wallet. By default, this option will be checked, and if not unchecked, your Skywallet will be removed from the Wallet list.
 
 After confirming the warning message to wipe the device, **all the data in your Skywallet will be erased except for the firmware updates.** The firmware updates of your Skywallet cannot be deleted and will remain the same as before even after the deletion process.
 
