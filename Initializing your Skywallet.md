@@ -10,7 +10,7 @@ The Desktop Wallet is used for the interaction between the Skywallet and the Use
 
 Please make sure to download the latest compatible version from the Skycoin [Downloads](https://www.skycoin.net/downloads/) Page.
 
-<If you are a Linux user then please make sure to run this script>
+<If you are a Linux user, then please make sure to run this script>
 
 If you already have the latest Desktop Wallet installed and configured, then you can skip this step.
 
@@ -34,7 +34,7 @@ If you are using the Desktop Wallet for the first time, you will see the followi
 
 To configure your Skywallet, proceed to click on **“Using a hardware wallet?”** button.
 
-<Screenshot of a Desktop Wallet highlighting Using a hardware wallet button>
+<can be removed> <Screenshot of a Desktop Wallet highlighting Using a hardware wallet button>
 
 On pressing “Using a hardware wallet?” button, the display screen on Skywallet will show a welcome message:
 
@@ -52,7 +52,7 @@ The window will display a list of all the Wallets that are already configured us
 
 To configure your Skywallet click on the **“Hardware Wallet”** button.
 
-<Screenshot highlighting the Hardware Wallet button along with the context>
+<can be removed> <Screenshot highlighting the Hardware Wallet button along with the context>
 
 On pressing “Hardware Wallet” button, the display screen on Skywallet will show a welcome message:
 
@@ -62,7 +62,7 @@ Once the welcome message is displayed on the Skywallet screen, you can proceed t
 
 ## <a name="Step_4"> </a> Step 4: Installing the Firmware
 
-Once the welcome message is displayed on the Skywallet, the Desktop Wallet will show the following window:
+To denote the beginning of the firmware installation, the Desktop Wallet will show the following window:
 
 <Screenshot of the Desktop Wallet showing the message about the installation of the firmware>
 
@@ -78,7 +78,7 @@ Once the installation is complete, you can proceed to configure the Skywallet.
 
 Once the firmware installation is complete, the “NEEDS SEED!” message is displayed by the Skywallet.
 
-<Reusing the picture of the Skywallet display showing the message Needs seed>
+<can be removed> <Reusing the picture of the Skywallet display showing the message Needs seed>
 
 Simultaneously, the following window will be displayed by the Desktop Wallet.
 
