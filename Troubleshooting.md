@@ -10,7 +10,7 @@ You can also send an email at **support@skycoin.zendesk.com**.
 
 If your Skywallet is lost or stolen, the recommended solution is to **get a new one** as soon as possible. 
 
-Once you got the new Skywallet, restore the Coins using the Seed of your old Skywallet.
+Once you got the new Skywallet, restore the coins using the Seed of your old Skywallet.
 
 Even though **not a recommended** method, as an immediate solution, you can also create a new Desktop Wallet to restore the lost Skywallet.
 
@@ -31,9 +31,9 @@ You can visit the following chapter to know more about setting a PIN and the sec
 
 ## 3. Too Many Transactions Issue
 
-When you try to send Coins to a Wallet and if the particular transaction has too many inputs or outputs, then an error message will be displayed upon pressing the "Preview" button or the "Send" button.
+When you try to send coins to a Wallet and if the particular transaction has too many inputs or outputs, then an error message will be displayed upon pressing the "Preview" button or the "Send" button.
 <Screenshot of the error message>
 
-To still transfer your funds, you can split up your transaction into multiple transactions and then send the Coins.
+To still transfer your funds, you can split up your transaction into multiple transactions and then send the coins.
 
 **Note - This issue will be fixed in a future update.**
