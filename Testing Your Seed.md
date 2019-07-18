@@ -22,7 +22,7 @@ After clicking on the "Confirm Seed" button, the Skywallet will ask you to enter
 
 <Picture of the Skywallet asking the user to enter a word on a particular position and a screenshot of the Desktop Wallet with the window showing the simultaneous message to enter the specific word at that position>
 
-<Optional picture may be to explain the random sequence by reusing the last image and screenshot along with the next message displayed by the Skywallet to enter another word in another position and its simultaneous Desktop Wallet screenshot>
+<can be removed> <Optional picture may be to explain the random sequence by reusing the last image and screenshot along with the next message displayed by the Skywallet to enter another word in another position and its simultaneous Desktop Wallet screenshot>
 
 Along with asking you to enter the words of the Seed at a particular position, **the Skywallet may ask you to enter random words which are not part of the Seed.**
 
@@ -30,5 +30,5 @@ Along with asking you to enter the words of the Seed at a particular position, *
 
 Once this process is complete, the Desktop Wallet will confirm whether the Seed you have entered is the correct Seed for the connected Skywallet.
 
-<Screenshot1 the Desktop Wallet showing that the Seed is of the connected Wallet>
-<Screenshot2 the Desktop Wallet showing that the Seed is not of the connected Wallet>
+<can be removed> <Screenshot1 the Desktop Wallet showing that the Seed is of the connected Wallet>
+<can be removed> <Screenshot2 the Desktop Wallet showing that the Seed is not of the connected Wallet>
