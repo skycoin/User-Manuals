@@ -154,10 +154,7 @@ Follow the steps below to send coins using the "Advanced Send" option.
 **Wallets Showing Same Addresses**
 <Screenshot and image of the same address being displayed>
 
-**Wallets Showing Different Addresses**
-<Screenshot and image of different address being displayed>
-
  **NOTE - Please make sure that the receiving Wallet addresses entered by you and those displayed by the Skywallet in the confirmation message are the same.  
 If they are not the same, abort the whole process and stop using the Skywallet and immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
-Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
+Alternatively, you can also send an email detailing the issue to support@skycoin.zendesk.com.  
 It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your coins.**
