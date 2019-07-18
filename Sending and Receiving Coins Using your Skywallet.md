@@ -1,6 +1,6 @@
 # Sending and Receiving Coins Using your Skywallet
 
-To send or receive Coins using your Skywallet, you have to initialize and personalize your Skywallet first. Details on how to initialize and personalize your Skywallet can be found in the following chapters:
+To send or receive coins using your Skywallet, you have to initialize and personalize your Skywallet first. Details on how to initialize and personalize your Skywallet can be found in the following chapters:
 
 **[Initialization of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/Initialize-the-wallet-setting-up)**
 
@@ -12,7 +12,7 @@ Once you have completed the initialization and personalization of your Skywallet
 
 ## Receive Coins
 
-To receive Coins to your Skywallet, you need the address of your Skywallet.
+To receive coins to your Skywallet, you need the address of your Skywallet.
 
 To get the address of the Skywallet, follow these steps :
 
@@ -36,15 +36,11 @@ Once you have clicked on the "Press to Show" button, the address of the Skywalle
 
 **NOTE - Please check whether both these addresses are the same. If they are not the same, then cancel the operation and stop using the Skywallet. Immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
 Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
-It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your Coins.**
+It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your coins.**
 
-**Wallets Showing Different Addresses**
+**Step 5** - After confirming both the addresses are the same. You can use this address to receive coins to your Skywallet. 
 
-<Screenshot and image of different addresses being displayed>
-
-**Step 5** - After confirming both the addresses are the same. You can use this address to receive Coins to your Skywallet. 
-
-Once the transaction is confirmed in the blockchain, your Coins will appear in the balance.
+Once the transaction is confirmed in the blockchain, your coins will appear in the balance.
 
 ***Unlike the Desktop Wallet, which supports multiple addresses, the Skywallet only supports one address.***
 
@@ -52,7 +48,7 @@ Once the transaction is confirmed in the blockchain, your Coins will appear in t
 
 ### Simple Send
 
-To send Coins from your Skywallet using the Simple Send option, you only need the complete address of the receiving Wallet.
+To send coins from your Skywallet using the Simple Send option, you only need the complete address of the receiving Wallet.
 
 **Step 1** - Connect your Skywallet to your computer via the USB.
 
@@ -66,17 +62,17 @@ To send Coins from your Skywallet using the Simple Send option, you only need th
 
 **Step 4** - Click on the drop-down arrow in the first box - **Send from**, to select your Skywallet from the list.
 
-<Screenshot highlighting the click on the drop-down and highlighting the Skywallet from the list of Wallets >
+<can be removed> <Screenshot highlighting the click on the drop-down and highlighting the Skywallet from the list of Wallets >
 
 **Step 5** - Enter the full address of the receiving Wallet in the second box - **Send to**.
 
-<Screenshot of a dummy address entered into the Send to box>
+<can be removed> <Screenshot of a dummy address entered into the Send to box>
 
-**Warning - Thoroughly verify the address of the receiving Wallet, as entering a wrong address could result in loss of your Coins.**
+**Warning - Thoroughly verify the address of the receiving Wallet, as entering a wrong address could result in loss of your coins.**
 
 **Step 6** - Enter the amount of Skycoins you want to send in the third box - **Amount**.
 
-<Screenshot of the Desktop Wallet with a certain amount entered and highlighted>
+<can be removed> <Screenshot of the Desktop Wallet with a certain amount entered and highlighted>
 
 **Step 7** - Click on the **Preview** button to get a preview of your transaction, you can once again verify all the data entered.
 
@@ -84,33 +80,30 @@ To send Coins from your Skywallet using the Simple Send option, you only need th
 
 **Step 8** - After verifying the entered data, click on the **Send** button to proceed with your transaction.
 
-<Screenshot of the Desktop Wallet with the Send button highlighted>
+<can be removed> <Screenshot of the Desktop Wallet with the Send button highlighted>
 
 **Step 9** - Once you click on the "Send" button, a confirmation message will be displayed on your Skywallet.
-<image of the Skywallet display screen with the confirmation message to send a certain amount of Coins to a specific address>
+<image of the Skywallet display screen with the confirmation message to send a certain amount of coins to a specific address>
 
 **Wallets Showing Same Addresses**
 <Screenshot and image of the same address being displayed>
 
-**Wallets Showing Different Addresses**
-<Screenshot and image of different address being displayed>
-
  **NOTE - Please make sure that the receiving Wallet address entered by you and the one displayed by the Skywallet in the confirmation message is the same.  
  If it is not the same, abort the whole process and stop using the Skywallet and immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
 Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
- It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your Coins.**
+ It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your coins.**
 
-**Step 10** - After you verify both the address you have entered in the Desktop Wallet and the one displayed by the Skywallet in its confirmation message is the same, you can confirm the operation on your Skywallet to send the Coins. 
+**Step 10** - After you verify both the address you have entered in the Desktop Wallet and the one displayed by the Skywallet in its confirmation message is the same, you can confirm the operation on your Skywallet to send the coins. 
  
  ## Advanced Send
  
 As the name suggests, "Advanced Send" option is to be used in case if you need to access advanced settings when Sending Skycoins.
 
-Sending Coins using the Simple Send option is relatively easy as you only need to enter the correct address for the receiving Wallet and the exact amount of Skycoins.
+Sending coins using the Simple Send option is relatively easy as you only need to enter the correct address for the receiving Wallet and the exact amount of Skycoins.
 
 However, if you need to customize your transaction using advanced options, then you can go for the "Advanced Send" option.
 
-Follow the steps below to send Coins using the "Advanced Send" option.
+Follow the steps below to send coins using the "Advanced Send" option.
 
 **Step 1** - Connect your Skywallet to your computer via the USB.
 
@@ -131,7 +124,7 @@ Follow the steps below to send Coins using the "Advanced Send" option.
 **NOTE - You can add multiple addresses when using the Advanced Send option, to add additional address click on the green plus symbol to the extreme right of your screen.**
 <Screenshot highlighting the green plus symbol>
 
-**Step 7** - Once you entered the receiving Wallet addresses, you can enter the number of Coins you want to send to each of these addresses.
+**Step 7** - Once you entered the receiving Wallet addresses, you can enter the number of coins you want to send to each of these addresses.
 
 **NOTE - You can toggle between entering the number of Skycoins you want to Send or the equivalent amount of United States Dollars. The Toggle button is available on top of the Destinations box.**
 
@@ -140,12 +133,12 @@ Follow the steps below to send Coins using the "Advanced Send" option.
 **Step 8** - Next option is the Coin Hours, by default, the Coin Hours for each transaction will be automatically allocated. However, you can change this by unchecking the box **Automatic coin hours allocation** at the bottom of your screen.
 <Screenshot highlighting the automatic coin hours allocation box>
 
-**Step 9** - Once you have unchecked the "Automatic coin hours allocation" box, an additional box will appear next to the box where you enter the number of Coins.
+**Step 9** - Once you have unchecked the "Automatic coin hours allocation" box, an additional box will appear next to the box where you enter the number of coins.
 <Screenshot highlighting the Coin hours box>
 
-**Step 10** - After entering all the destination Wallet addresses, the number of Coins and the Coin hours, please verify all the data entered is correct.
+**Step 10** - After entering all the destination Wallet addresses, the number of coins and the Coin hours, please verify all the data entered is correct.
 
-**Warning - Thoroughly verify the addresses of the receiving Wallets, as entering wrong addresses could result in loss of your Coins.**
+**Warning - Thoroughly verify the addresses of the receiving Wallets, as entering wrong addresses could result in loss of your coins.**
 
 **Step 12** - After verifying the entered data, you can proceed to enter the change address. If you wish to use a Wallet from the Wallet list for the change address, you can click on the "Select" drop-down.
 <Screenshot highlighting the change address box and showing the Wallet list by highlighting and clicking on the drop down>
@@ -156,7 +149,7 @@ Follow the steps below to send Coins using the "Advanced Send" option.
 **Step 14** - Once all these data are entered or selected, you can reverify this by clicking on the **Preview** button, which shows a preview of your transaction with all the details.
 
 **Step 15** - After reviewing and verifying all the data, you can click on the "Send" button. Once you click on the "Send" button, a confirmation message will be displayed on your Skywallet.
-<Image of the Skywallet display screen with the confirmation message to send a certain amount of Coins to a specific address>
+<Image of the Skywallet display screen with the confirmation message to send a certain amount of coins to a specific address>
 
 **Wallets Showing Same Addresses**
 <Screenshot and image of the same address being displayed>
@@ -167,4 +160,4 @@ Follow the steps below to send Coins using the "Advanced Send" option.
  **NOTE - Please make sure that the receiving Wallet addresses entered by you and those displayed by the Skywallet in the confirmation message are the same.  
 If they are not the same, abort the whole process and stop using the Skywallet and immediately contact Support by visiting this link - [store.skycoin.net/pages/support](store.skycoin.net/pages/support).  
 Alternatively, you can also send an email detailing the issue to **support@skycoin.zendesk.com**.  
-It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your Coins.**
+It is imperative you do this as showing different addresses means your SkyWallet might have been compromised and using the same would lead you to the loss of your coins.**
