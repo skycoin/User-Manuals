@@ -145,7 +145,7 @@ However, you can choose to delete the PIN code of your Skywallet using the Hardw
 
 To delete the PIN code of your Skywallet, you can click on the **Delete PIN Code** button. 
 
-After accepting the confirmation message, the PIN code of your Skywallet will be deleted.
+After accepting the confirmation message, you will be asked to enter the PIN code of your Skywallet, once entered and comfirmed, the PIN code of your Skywallet will be deleted.
 
 To ensure optimal security for your funds, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
 
