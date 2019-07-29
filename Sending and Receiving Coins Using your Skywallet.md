@@ -8,7 +8,7 @@ To send or receive coins using your Skywallet, you have to initialize and person
 
 Once you have completed the initialization and personalization of your Skywallet, you can see your Skywallet in the list of Wallets configured using your Desktop Wallet.
 
-<Screenshot of the Desktop Wallet showing the list of configured Wallets>
+<can be removed> <Screenshot of the Desktop Wallet showing the list of configured Wallets>
 
 ## Receive Coins
 
