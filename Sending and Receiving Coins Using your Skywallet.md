@@ -136,7 +136,7 @@ Follow the steps below to send coins using the "Advanced Send" option.
 **Step 9** - Once you have unchecked the "Automatic coin hours allocation" box, an additional box will appear next to the box where you enter the number of coins.
 <can be removed> <Screenshot highlighting the Coin hours box>
 
-**Step 10** - After entering all the destination Wallet addresses, the number of coins and the Coin hours, please verify all the data entered is correct.
+**Step 10** - After entering all the destination Wallet addresses, the number of coins and the coin hours, please verify all the data entered is correct.
 
 **Warning - Thoroughly verify the addresses of the receiving Wallets, as entering wrong addresses could result in loss of your coins.**
 
