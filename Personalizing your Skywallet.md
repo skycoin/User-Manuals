@@ -26,34 +26,6 @@ Following are the options available in this window:
 
 **Create a backup**
 
-**Create PIN code**# Personalizing your Skywallet
-
-After completing the initialization of your Skywallet, you can start to personalize your Skywallet using the Desktop Wallet.
-
-Upon configuring your Skywallet, it will be listed in the Wallet list. The list can be viewed when you open your Desktop Wallet.
-
-<can be removed> <Screenshot of the list of Wallets displayed when the Desktop Wallet is opened. One of the Wallets in the list needs to be a Skywallet>
-
-To personalize your Skywallet, connect your Skywallet via USB to your computer and then open the Desktop Wallet.
-
-Once the Desktop Wallet is opened, click on the **Hardware Wallet** button in the Desktop Wallet window.
-
-<can be removed> <Screenshot of the Desktop Wallet highlighting the Hardware Wallet button>
-
-Once you click on the "Hardware Wallet" button, the following window will appear:
-
-<Screenshot of the Hardware Wallet window with the options available when the Skywallet is used after configuration for the first time>
-
-When you use the Skywallet for the first time, you will find two warnings associated with **Creating a Backup** and **Setting a Pin**, displayed in the Desktop Wallet window.
-
-Both of these warnings are to be dealt with seriously, or it may compromise the security of your Skywallet.
-
-To complete these two tasks, you can use the options in the Hardware Wallet window.
-
-Following are the options available in this window:
-
-**Create a backup**
-
 **Create PIN code**
 
 **Wipe the device**
@@ -83,7 +55,7 @@ After completing the display of the words in the Seed, the screen displays ***al
 
 **Note - After completing the Backup process, you cannot repeat the same. Hence it is essential to note the Seed down during this process. Once you have completed the backup process, the "Create a backup" button will be replaced by "Confirm Seed" button.**
 
-Also to ensure optimal security of your funds, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
+To ensure optimal security, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
 
 ## Create  PIN code
 
@@ -123,7 +95,7 @@ After setting up your PIN, you can manage the PIN by changing or deleting the sa
 
 **Changing the PIN code**
 
-Once you have done creating the PIN code, the Hardware Wallet window will show the following options:
+Once you have created a PIN code,, the Hardware Wallet window will show the following options:
 <Screenshot of the Hardware Wallet window highlighting change PIN code option>
 
 You can use the **Change PIN Code** option to change your current PIN code to a new one.
@@ -132,7 +104,7 @@ Upon clicking the "Change PIN Code" button, the Hardware Wallet window will show
 <Picture of the Hardware wallet showing the number matrix>
 <Screenshot of the Desktop Wallet showing the keypad>
 
-You can enter the PIN code by utilizing the number matrix displayed by the Skywallet, same way as you did for creating the PIN code.
+You can enter the PIN code by utilizing the number matrix displayed by the Skywallet in the same way you used it for creating the PIN code.
 
 To change the PIN code, you have to enter the current PIN code first and then the new PIN code twice. 
 
@@ -145,9 +117,9 @@ However, you can choose to delete the PIN code of your Skywallet using the Hardw
 
 To delete the PIN code of your Skywallet, you can click on the **Delete PIN Code** button. 
 
-After accepting the confirmation message, you will be asked to enter the PIN code of your Skywallet, once entered and comfirmed, the PIN code of your Skywallet will be deleted.
+After accepting the confirmation message, you will be asked to enter the PIN code of your Skywallet. Once entered and comfirmed, the PIN code of your Skywallet will be deleted.
 
-To ensure optimal security for your funds, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
+To ensure optimal security, please make sure to go through this section of the user manual - [Optimize account security](https://github.com/skycoin/hardware-wallet/wiki/Optimize-account-security)
 
 ## Wipe the device
 
