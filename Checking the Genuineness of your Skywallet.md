@@ -2,7 +2,7 @@
 
 ## Checking your Skywallet Package for Tampering
 
-Once you receive the Skywallet shipment, please check for any physical tampering or damage of any sorts to the package.
+Once you receive the Skywallet shipment, please check for any physical tampering or damage to the package of any sort.
 
 Tampering or damage can be anything from a small tear on the package to a package that is torn open.
 
@@ -12,18 +12,18 @@ Tampering or damage can be anything from a small tear on the package to a packag
 
 <A Picture of an untampered shipment before opening>
 
-After opening the package, please ensure that the holographic sticker with the Skycoin logo on the Skywallet box is not broken.
+Please ensure that the holographic sticker with the Skycoin logo on the Skywallet box is not broken.
 <A Picture of the unbroken holographic seal on the box>
 
 ## Checking the Firmware
 
 The Skywallet is built to provide maximum security to the user.
 
-However, it is vital to check whether your Skywallet is not compromised before using it.
+However, it is vital to check that your Skywallet is not compromised before using it.
 
 ## Step 1 - Connecting Your Skywallet
 
-As the first step, you have to connect the Skywallet to your USB port.
+First, connect the Skywallet to your USB port.
 
 ## Step 2 - Checking the message on your Skywallet's Display
 
@@ -59,9 +59,9 @@ Along with the Skycoin Logo.
 
 If you get a "Need Seed!" message on your first use, it means that your Skywallet is not a new one and has a firmware already initialized.
 
-**Note - If you do get a Need Seed! message on your first use of the Skywallet, then please refrain from using the device any further.**
+**Note - If you do get a Need Seed! message on your first use of the Skywallet, refrain from using the device.**
 
-Also for further assistance, **Please contact the support team immediately.**
+For further assistance, **Please contact the support team immediately.**
 
 You can use the following link to contact support: **[Support Page](store.skycoin.net/pages/support)**
 
