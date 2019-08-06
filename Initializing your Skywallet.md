@@ -34,19 +34,19 @@ Following are the steps to install the daemon in different operating systems:
 
 * Open terminal on your Linux machine.
 
-* Enter the following command on the terminal  
+* Execute the following command using the terminal:  
 *run wget -O /tmp/skyhwd.deb https://downloads.skycoin.net/skywallet-daemon/skyhwd_0.1.0_amd64.deb*
 
-* After the process is complete execute the following command  
+* After the process is complete execute the following command:  
 *run dpkg -i /tmp/skyhwd.deb*
 
 * Once completed, the daemon will run in the background.
 
-## Step 2:
+## Step 3:
 
 Connect your Skywallet to the USB port.
 
-## Step 3:
+## Step 4:
 
 Once you have connected the Skywallet to the USB port, open the Skycoin Desktop Wallet.
 
@@ -54,7 +54,7 @@ If it is the first time you are using your Skywallet, please make sure to go thr
 
 The instructions for a Desktop Wallet which is used for the first time and an already configured Desktop Wallet are different.
 
-### Step 3.1: First Time Use of a Desktop Wallet
+### Step 4.1: First Time Use of a Desktop Wallet
 
 If you are using the Desktop Wallet for the first time, you will see the following screen :
 
@@ -70,7 +70,7 @@ Upon pressing the “Using a hardware wallet?” button, the display screen on y
 
 To configure your Skywallet for the first time, you have to install the firmware for the Skywallet, as explained in [step #4](#Step_4).
 
-### Step 3.2: Previously Configured Desktop Wallet
+### Step 4.2: Previously Configured Desktop Wallet
 
 If you are **not** using your Desktop Wallet for the first time, then on connecting the Skywallet via USB, the following window will be displayed.
 
@@ -88,7 +88,7 @@ On pressing “Hardware Wallet” button, the display screen on the Skywallet wi
 
 Once the welcome message is displayed on the Skywallet screen, you can proceed to install the firmware.
 
-## Step 4: Installing the Firmware
+## Step 5: Installing the Firmware
 
 To indicate the beginning of the firmware installation, the Desktop Wallet will show the following window:
 
@@ -102,7 +102,7 @@ Once the installation is complete, you can proceed to configure the Skywallet.
 
 **Note - If the installation process gets abruptly terminated for any reasons, you can disconnect the Skywallet, close the Desktop Wallet and then restart the whole process from the start.**
 
-## Step 4: Skywallet Configuration
+## Step 6: Skywallet Configuration
 
 Once the firmware installation is complete, the “NEEDS SEED!” message is displayed by the Skywallet.
 
@@ -118,7 +118,7 @@ In this window, you can select two options :
 
 **"Restore backup"**
 
-### Step 4.1: Configure automatically
+### Step 6.1: Configure automatically
 
 If you are using a Skywallet for the **first** time, then you can proceed with the option of “Configure Automatically”.
 
@@ -132,7 +132,7 @@ You can use this window to change the name of your Skywallet. After which you ca
 
 <Screenshot of a changed Skywallet name>
 
-### Step 4.2: Restore backup
+### Step 6.2: Restore backup
 
 If you have already made a backup of a previously used Skywallet and need to restore it on the new Skywallet, then you can opt for the Restore Backup option.
 
