@@ -8,7 +8,13 @@ The "Confirm Seed" button will not be available when you are using your Skywalle
 
 Once you have clicked on the **Create Backup** button on the Hardware Wallet window and completed the process of the Seed backup,  the "Confirm Seed" button will replace the "Create Backup" button.
 
-<Two Screenshots where the first one is the Hardware Wallet window highlighting Create Backup button and the second one of the same window but highlighting the button confirm Seed>
+Hardware Wallet window, Before Seed backup:
+
+![Create Backup](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Testing%20your%20Seed%20-%201.png)
+
+Hardware Wallet window, after Seed backup:
+
+![Confirm Seed](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Testing%20your%20Seed%20-%202.PNG)
 
 To check whether a Seed belongs to a particular Skywallet, you have to connect your Skywallet first. 
 
