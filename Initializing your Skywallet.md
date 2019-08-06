@@ -2,13 +2,45 @@
 
 After successfully checking that your Skywallet is genuine, you can begin with the initialization of your Skywallet.
 
-## Step 1 :
+## Step 1:
 
 The first step in initializing your Skywallet is to install the Skycoin Desktop Wallet.
 
 Please make sure to download the latest compatible version from the Skycoin [Downloads](https://www.skycoin.net/downloads/) Page.
 
 If you already have the latest Desktop Wallet installed and configured, then you can skip this step.
+
+## Step 2:
+
+The next step is to download and install the daemon.
+
+Following are the steps to install the daemon in different operating systems:
+
+### Windows
+
+* Download the daemon from the following link - []()
+
+* You have to run the daemon every time you want to use the Skywallet.
+
+### macOS
+
+* Download the .pkg file from the following link - []()
+
+* Double Click on the downloaded file and follow the instructions in the installer.
+
+* Once completed, the daemon runs in the background, so you do not have to start it manually.
+
+### Linux
+
+* Open terminal on your Linux machine.
+
+* Enter the following command on the terminal  
+*run wget -O /tmp/skyhwd.deb https://downloads.skycoin.net/skywallet-daemon/skyhwd_0.1.0_amd64.deb*
+
+* After the process is complete execute the following command  
+*run dpkg -i /tmp/skyhwd.deb*
+
+* Once completed, the daemon will run in the background.
 
 ## Step 2:
 
@@ -44,7 +76,7 @@ If you are **not** using your Desktop Wallet for the first time, then on connect
 
 <Screenshot of a previously configured Desktop Wallet with other Wallets as well>
 
-The window will display a list of all the Wallets that are already configured in yout Desktop Wallet. (*Note - This may include both Hardware and Software Wallets*)
+The window will display a list of all the Wallets that are already configured in your Desktop Wallet. (*Note - This may include both Hardware and Software Wallets*)
 
 To configure your Skywallet click on the **“Hardware Wallet”** button.
 
