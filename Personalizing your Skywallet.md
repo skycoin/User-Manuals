@@ -14,7 +14,7 @@ Once the Desktop Wallet is opened, click on the **Hardware Wallet** button in th
 
 Once you click on the "Hardware Wallet" button, the following window will appear:
 
-<Screenshot of the Hardware Wallet window with the options available when the Skywallet is used after configuration for the first time>
+![Hardware Wallet Window](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Personalization%20-%201.PNG)
 
 When you use the Skywallet for the first time, you will find two warnings associated with **Creating a Backup** and **Setting a Pin**, displayed in the Desktop Wallet window.
 
@@ -65,8 +65,9 @@ To create a PIN for your Skywallet for the first time, click on the button - **C
 
 Once you click on the button "Create PIN code" the following window will appear on the Desktop Wallet:
 
-<Screenshot showing the window to create a PIN> 
-<it is mentioned in the wiki page that the hash symbol which is currently used to mask the numbers in the keypad will be changed to dot, if so then the latest version screenshot will be needed>
+![Keypad to enter the PIN code](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Personalization%20-%202.PNG)
+
+<it is mentioned in the wiki page that the hash symbol which is currently used to mask the numbers in the keypad will be changed to dot if so then the latest version screenshot will be needed>
 
 Simultaneously a number Matrix will be displayed on your Skywallet display screen.
 
@@ -95,14 +96,15 @@ After setting up your PIN, you can manage the PIN by changing or deleting the sa
 
 **Changing the PIN code**
 
-Once you have created a PIN code,, the Hardware Wallet window will show the following options:
-<Screenshot of the Hardware Wallet window highlighting change PIN code option>
+Once you have created a PIN code, you can make modifications to your PIN code using the Hardware Wallet window.
 
 You can use the **Change PIN Code** option to change your current PIN code to a new one.
 
 Upon clicking the "Change PIN Code" button, the Hardware Wallet window will show you a keypad similar to the one you used to create the PIN code.
+
 <Picture of the Hardware wallet showing the number matrix>
-<Screenshot of the Desktop Wallet showing the keypad>
+  
+![Keypad to enter the PIN code](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Personalization%20-%202.PNG)
 
 You can enter the PIN code by utilizing the number matrix displayed by the Skywallet in the same way you used it for creating the PIN code.
 
@@ -113,7 +115,6 @@ To change the PIN code, you have to enter the current PIN code first and then th
 Ideally, a Skywallet should always have a PIN code, and it is a recommended precaution to improve the security of your Skywallet.
 
 However, you can choose to delete the PIN code of your Skywallet using the Hardware Wallet window.
-<Screenshot of the Hardware Wallet window with Delete PIN code button highlighted>
 
 To delete the PIN code of your Skywallet, you can click on the **Delete PIN Code** button. 
 
