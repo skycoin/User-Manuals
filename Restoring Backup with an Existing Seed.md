@@ -38,9 +38,9 @@ Proceed to click on the **Using a hardware wallet?** button.
 
 If it is not your first-time use of the Desktop Wallet, then all the Wallets configured using your Desktop Wallet will appear in a list.
 
-<Screenshot of a configured Desktop Wallet with a Wallet list>
+![Wallet list in Desktop Wallet](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Restore%20Wallet%20-%201.PNG)
 
-In this case, proceed to click on the **Hardware Wallet** button.
+In this case, proceed to click on the **Hardware Wallet** button, at the bottom.
 
 <can be removed> <Reusing the last screenshot with the Hardware Wallet button highlighted>
 
