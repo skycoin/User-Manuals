@@ -76,4 +76,5 @@ To check the current firmware version of your Skywallet, you can follow these st
 <can be removed> <Screenshot of the Desktop Wallet window highlighting the Skywallet from the list>
 
 **Step 5** - You can check for the firmware version in the following window, which appears when you select the Skywallet from the Wallet list.
-<Screenshot of the Hardware Wallet window with the firmware version highlighted>
+
+![Firmware Version](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Misc%20-%201.PNG)
