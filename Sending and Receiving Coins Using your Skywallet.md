@@ -24,7 +24,7 @@ To get the address of the Skywallet, follow these steps :
 
 However, only the partial address will be visible for you.
 
-<Screenshot of the Desktop Wallet after clicking on the Skywallet name and displaying the partial address>
+![Partial Address of Skywallet](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20-%201.PNG)
 
 **Step 4** - Click on the **Press to Show** button.
 
@@ -56,7 +56,7 @@ To send coins from your Skywallet using the Simple Send option, you only need th
 
 **Step 3** - Click on the **Send** tab.
 
-<Screenshot of the Desktop Wallet showing the Send window>
+![Simple Send tab](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20-%202.PNG)
 
 **Note - When you click on the Send tab, by default, the Simple Send option is selected.** 
 
@@ -76,7 +76,9 @@ To send coins from your Skywallet using the Simple Send option, you only need th
 
 **Step 7** - Click on the **Preview** button to get a preview of your transaction, you can once again verify all the data entered.
 
-<Screenshot with the Preview button highlighted and then the Screenshot of the window showing the preview of the transaction>
+![Preview button](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20-%203.PNG)
+
+![Preview of Transaction](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20-%204.PNG)
 
 **Step 8** - After verifying the entered data, click on the **Send** button to proceed with your transaction.
 
@@ -113,7 +115,8 @@ Follow the steps below to send coins using the "Advanced Send" option.
 <can be removed> <Screenshot of the Desktop Wallet showing the Send window>
 
 **Step 4** - When you click on the Send tab, by default, the Simple Send option is selected, to select Advanced Send option click on the **Advanced Send** button next to the "Simple Send" button.
-<Screenshot highlighting the advanced send button in the send tab>
+
+![Advanced Send tab](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20-%205.PNG)
 
 **Step 5** - Click on the drop-down arrow in the first box - **Select Wallet**, to select your Skywallet from the list.
 <can be removed> <Screenshot highlighting the click on the drop-down and highlighting the Skywallet from the list of Wallets >
@@ -147,7 +150,8 @@ Follow the steps below to send coins using the "Advanced Send" option.
 <can be removed> <Screenshot highlighting the personal notes box and showing a transaction in the transaction history tab with a personal note>
 
 **Step 13** - Once all these data are entered or selected, you can reverify this by clicking on the **Preview** button, which shows a preview of your transaction with all the details.
-<Screenshot of the preview window, with dummy transaction details> 
+
+![Preview Transaction](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20-%206.PNG) 
 
 **Step 14** - After reviewing and verifying all the data, you can click on the "Send" button. Once you click on the "Send" button, a confirmation message will be displayed on your Skywallet.
 <Image of the Skywallet display screen with the confirmation message to send a certain amount of coins to a specific address>
