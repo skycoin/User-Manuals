@@ -34,7 +34,7 @@ To send coins from your Desktop Wallet using the Simple Send option, you only ne
 
 **Step 2** - Click on the **Send** tab.
 
-<Screenshot of the Desktop Wallet showing the Send window>
+![Simple Send tab](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20-%202.PNG)
 
 **Note - When you click on the Send tab, by default, the Simple Send option is selected.** 
 
@@ -46,8 +46,11 @@ To send coins from your Desktop Wallet using the Simple Send option, you only ne
 
 **Step 5** - Enter the amount of Skycoins you want to send in the third box - **Amount**.
 
+![Transaction Details for Simple Send](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20Desktop%20Wallet%20-%202.PNG)
+
 **Step 6** - Click on the **Preview** button to get a preview of your transaction, you can once again verify all the data entered.
-<Screenshot of the preview window with a dummy transaction>
+
+![Preview of Transaction - Simple Send](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20Desktop%20Wallet%20-%203.PNG)
 
 **Step 7** - After verifying the entered data, click on the **Send** button to proceed with your transaction.
 
@@ -70,7 +73,7 @@ Follow the steps below to send coins using the "Advanced Send" option.
 **Step 2** - Click on the **Send** tab.
 
 **Step 3** - When you click on the Send tab, by default, the Simple Send option is selected, to utilize the advanced options click on the **Advanced Send** button next to the "Simple Send" button.
-<Screenshot highlighting the advanced send button in the send tab>
+![Advanced Send tab](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20Desktop%20Wallet%20-%204.PNG)
 
 **Step 4** - Click on the drop-down arrow in the first box - **Select Wallet**, to select your Wallet from the list.
 
@@ -94,7 +97,10 @@ Follow the steps below to send coins using the "Advanced Send" option.
 
 **Step 11** - In the final box named "Personal Notes", you can add a message which will appear as a remark once the transaction is completed and it appears in the transaction history.
 
+![Advanced Send transaction filled](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20Desktop%20Wallet%20-%205.PNG)
+
 **Step 12** - After entering all the necessary data, you can reverify it by clicking on the **Preview** button, which shows a preview of your transaction with all the details.
-<Screenshot of the preview window, with a dummy transaction details>
+
+![Advanced Send Preview](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20Desktop%20Wallet%20-%206.PNG)
 
 **Step 13** - After reviewing and verifying all the data, you can click on the "Send" button. Once you click on the "Send" button, your coins will be sent to the receiving address(s).
