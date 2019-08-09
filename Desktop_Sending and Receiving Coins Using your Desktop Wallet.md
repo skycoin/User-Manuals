@@ -97,7 +97,7 @@ Follow the steps below to send coins using the "Advanced Send" option.
 
 **Step 11** - In the final box named "Personal Notes", you can add a message which will appear as a remark once the transaction is completed and it appears in the transaction history.
 
-![Advanced Send transaction filled](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20Desktop%20Wallet%20-%205.PNG)
+![Advanced Send transaction filled](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Sending%20and%20Receiving%20Desktop%20Wallet%20-%205-1.PNG)
 
 **Step 12** - After entering all the necessary data, you can reverify it by clicking on the **Preview** button, which shows a preview of your transaction with all the details.
 
