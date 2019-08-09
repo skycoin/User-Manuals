@@ -30,7 +30,8 @@ Although not recommended, you can also opt to uncheck the option and leave your 
 * Password - If the "Encrypt Wallet" checkbox is ticked then you have to enter a password and confirm the same to encrypt your Desktop Wallet. 
 
 **Step 3** - Once you are done entering all the details, you can proceed to create the Desktop Wallet by clicking on the **Create** button.
-<Screenshot of the create wallet dialogue box with some dummy data entered>
+
+![Create Wallet window](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Setting%20up%20your%20Desktop%20Wallet%20-%201.PNG)
 
 Once you are done with the creation of your Desktop Wallet, you can use it to send and receive coins.  
 You can find the address of your Wallet by click on the drop-down arrow at the right end.
