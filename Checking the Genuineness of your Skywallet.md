@@ -43,9 +43,9 @@ Along with the Skycoin Logo.
 
 A Skywallet that is being used for the first time will not have a firmware installed.
 
-Firmware is like the brain of a hardware device (in this case, your Skywallet). It is the software interface which helps the hardware to interact with both the user as well as a computer. Thus without a firmware, your Skywallet will not work correctly.
+The firmware is the software interface which helps the hardware to interact with both the user as well as a computer. Thus without a firmware, your Skywallet will not work correctly.
 
-Hence any message apart from this welcome message implies that your Skywallet has been tampered with by a third party. Thus if you get any message apart from the welcome message, proceed to disconnect the device and contact support immediately.
+Any message apart from this welcome message implies that your Skywallet has been tampered with by a third party. Thus if you get any message apart from the welcome message, proceed to disconnect the device and contact support immediately.
 
 ### Scenario 2:
 
