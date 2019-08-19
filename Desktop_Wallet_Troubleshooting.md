@@ -42,7 +42,8 @@ However, **if you have previously loaded the said Wallet to your new Desktop or 
 * Once in the Wallets folder, open each ".wlt" files to check which is the Wallet file for the Wallet which you are about to recover.
 
 * The contents of the ".wlt" file will look something like this:
-<Screenshot of the wlt file content>
+
+![Wallet_File](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%202.PNG)
 
 * You can check the "Label" to know the name of your Wallet.
 
@@ -60,7 +61,8 @@ Once you have completed the previous steps, you can proceed to the recovery proc
 * Name of the Wallet.
 * Backup Seed of the Wallet you want to recover.
 * New Password to encrypt the Wallet.
-<Screenshot of the entered values in the load wallet window>
+
+![Load Wallet Window](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%203_edit.PNG)
 
 **Step 3** - Once the above data is entered, you can click on the "Load" button, to load your Wallet.
 
@@ -75,11 +77,13 @@ However, you can recover your lost Seed if you have the encryption password with
 **Step 1** - Open your Desktop Wallet.
 
 **Step 2** - Click on the "triple bar" symbol on the top right corner and then click on the **Backup Wallet** button.
-<Screenshot of the window highlighting the triple bar symbol>
+
+![Show Seed](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%204.PNG)
 
 **Step 3** - Upon clicking the 'Backup Wallet" button, a window with the list of all the Wallets configured using the Desktop Wallet will be displayed.  
 Click on the **Show Seed** button at the right end against the name of the Wallet for which you wish to view the Seed.
-<Screenshot of the window>
+
+![Show Seed Window](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%205.PNG)
 
 **Step 4** - You will be prompted to enter the encryption password, once entered click on **Proceed**.
 
