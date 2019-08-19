@@ -14,6 +14,8 @@ The recovery of your Desktop Wallet is critical in the following cases, to safeg
 
 * Lost Backup Seed.
 
+[Lost Wallet Password](Lost_Wallet_pwd)
+
 ### <a name="Lost_Wallet_pwd"></a> Lost Wallet Password
 
 It is always essential to keep your Wallet encrypted under all circumstances. 
