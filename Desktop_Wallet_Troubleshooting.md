@@ -14,7 +14,7 @@ The recovery of your Desktop Wallet is critical in the following cases, to safeg
 
 * Lost Backup Seed.
 
-### Lost Wallet Password
+### <a name="Lost_Wallet_pwd"></a> Lost Wallet Password
 
 It is always essential to keep your Wallet encrypted under all circumstances. 
 
@@ -112,7 +112,7 @@ Check the connection speed of your network, also try disconnecting and reconnect
 Every Wallet you create using your Desktop Wallet will have a file created in the **Wallets Folder** of your computer.  
 All these files will have the extension ".wlt" and the content of the file will be the details of the Wallet like name, address, etc.
 
-Under some circumstances like the one mentioned in the topic **Lost Wallet Password**, you might need to remove these files, to do you can follow these steps.  
+Under some circumstances like the one mentioned in the topic [**Lost Wallet Password**](Lost_Wallet_pwd), you might need to remove these files, to do you can follow these steps.  
 However, **before removing any of the ".wlt" files, make sure you backup these files or have the backup Seed for all these files.**
 
 **Step 1** - Open your Desktop Wallet.
