@@ -166,5 +166,4 @@ The steps for this is explained in the topic **[Wipe the Wallet Files](#Wipe_Wlt
 
 The architecture of Skycoin helps you to make swift transactions across addresses.
 
-However, on rare occasions, a transaction may take longer to process.  
-Such pending transactions are primarily due to some congestion in the blockchain network and would usually resolve itself if you wait for sufficient time.
+However, on rare occasions, a transaction may take longer to process. Such pending transactions are primarily due to some congestion in the blockchain network and would usually resolve itself if you wait for sufficient time.
