@@ -23,7 +23,7 @@ However, in an unfortunate event of you losing or forgetting the password of you
 To recover a Wallet for which the password is lost you should have the backup Seed. You can learn more about your Seed and the recommended backup methods in the following chapter:  
 [Security Recommendations for your Desktop Wallet]()
 
-Before beginning with the recovery process, you have to choose whether you are loading your new Wallet in your existing Desktop or in a different Desktop.
+Before beginning with the recovery process, you have to choose whether you are loading your new Wallet in your existing Desktop or a different Desktop.
 
 If you are using a new Desktop, where you do not have a Skycoin Desktop Wallet installed, then you have to download the latest version of Desktop Wallet from the [Downloads](https://www.skycoin.net/downloads) page.
 
@@ -140,4 +140,6 @@ The steps for this is explained in the topic **[Wipe the Wallet Files](#Wipe_Wlt
 
 ## Unconfirmed Transactions or Pending Transactions
 
-An unconfirmed transaction or pending transaction only occurs when you have entered an incorrect address for the receiver address.
+The architecture of Skycoin helps you to make swift transactions across addresses.  
+However, on rare occasions, a transaction may take longer to process.  
+Such pending transactions are primarily due to some congestion in the blockchain and would usually resolve itself if you wait for sufficient time.
