@@ -1,6 +1,6 @@
 # Choosing your Desktop Wallet
 
-This section will help you to choose the right Desktop Wallet as per your system configuration.
+This section will help you to choose the Desktop Wallet as per your system configuration.
 
 ## Available Versions of Desktop Wallet
 
