@@ -80,22 +80,22 @@ When you click on the Send button, by default, the Simple Send option is selecte
 ![Advanced Send tab]
 
 * **Step 3** - The resulting window - "Advanced Send" will prompt you to select:
-* A Wallet from the Wallet list
-* An address from the selected Wallet.
+  - A Wallet from the Wallet list
+  - An address from the selected Wallet.
 
 * **Step 4** - In the next window, you will be asked to select the UTXO from the list.
 
 * **Step 5** - In the final window, you will need to enter the following details:
 
-* **Send to** - The address of the receiving Wallet, you can either enter the receiving address or scan the QR code of the receiving address.
+  - **Send to** - The address of the receiving Wallet, you can either enter the receiving address or scan the QR code of the receiving address.
 
-* **Amount** - The number of coins you wish to send.
+  - **Amount** - The number of coins you wish to send.
 
-* **Send Coin Hours** - The number of coin hours you wish to Send.
+  - **Send Coin Hours** - The number of coin hours you wish to Send.
 
-* **Change Address** - You can select any of the address from the list of addresses by clicking on the address. By default, the address which you are using to send the coins will be used as the change address.
+  - **Change Address** - You can select any of the address from the list of addresses by clicking on the address. By default, the address which you are using to send the coins will be used as the change address.
 
-* **Notes** - Any notes which you wish to add along with the transaction.
+  - **Notes** - Any notes which you wish to add along with the transaction.
 
 **Warning - Thoroughly verify the addresses of the receiving Wallets, as entering wrong addresses could result in loss of your coins.**
 
