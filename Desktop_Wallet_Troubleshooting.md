@@ -1,6 +1,6 @@
 # Troubleshooting
 
-Here are some of the most common issues you might encounter when using a Skywallet and the best possible resolutions for troubleshooting these issues. 
+Here are some of the most common issues you might encounter when using a Desktop Wallet and the best possible resolutions for troubleshooting these issues. 
 
 If you do not find a resolution for your issue, make sure you contact the support team via - **[store.skycoin.net/pages/support](store.skycoin.net/pages/support)**.
 
