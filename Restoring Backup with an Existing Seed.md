@@ -20,7 +20,7 @@ Once the Skywallet is connected, you will see a welcome message on its display, 
 
 If you want to know more how to check the genuineness of your Skywallet. Please visit the following link - [Checking the Genuineness of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/How-to-check-whether-device-is-genuine)
 
-<Picture of the Welcome message on the Skywallet>
+![Welcome_Msg](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
 
 ### Step 3
 
