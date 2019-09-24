@@ -62,11 +62,9 @@ If you are using the Desktop Wallet for the first time, you will see the followi
 
 To configure your Skywallet, proceed to click on **“Using a hardware wallet?”** button.
 
-<can be removed> <Screenshot of a Desktop Wallet highlighting Using a hardware wallet button>
-
 Upon pressing the “Using a hardware wallet?” button, the display screen on your Skywallet will show a welcome message:
 
-<Reusing the Picture showing the Skywallet display with the welcome message>
+![Welcome_Message](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
 
 To configure your Skywallet for the first time, you have to install the firmware for the Skywallet, as explained in [step #4](#Step_4).
 
@@ -80,11 +78,9 @@ The window will display a list of all the Wallets that are already configured in
 
 To configure your Skywallet click on the **“Hardware Wallet”** button.
 
-<can be removed> <Screenshot highlighting the Hardware Wallet button along with the context>
-
 On pressing “Hardware Wallet” button, the display screen on the Skywallet will show a welcome message:
 
-<Reusing the Picture showing the Skywallet display with the welcome message>
+![Welcome_Message](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
 
 Once the welcome message is displayed on the Skywallet screen, you can proceed to install the firmware.
 
@@ -106,11 +102,9 @@ Once the installation is complete, you can proceed to configure the Skywallet.
 
 Once the firmware installation is complete, the “NEEDS SEED!” message is displayed by the Skywallet.
 
-<can be removed> <Reusing the picture of the Skywallet display showing the message Needs seed>
-
 Simultaneously, the following window will be displayed by the Desktop Wallet.
 
-<Screenshot of Desktop Wallet displaying the message of detecting an unconfigured Hardware Wallet>
+![Unconfigured_HW](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Personalization%20-%201.PNG)
 
 In this window, you can select two options :
 
