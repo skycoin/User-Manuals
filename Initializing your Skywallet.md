@@ -64,7 +64,7 @@ To configure your Skywallet, proceed to click on **“Using a hardware wallet?�
 
 Upon pressing the “Using a hardware wallet?” button, the display screen on your Skywallet will show a welcome message:
 
-![Welcome_Message](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
+![Welcome_Msg](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
 
 To configure your Skywallet for the first time, you have to install the firmware for the Skywallet, as explained in [step #4](#Step_4).
 
@@ -72,7 +72,7 @@ To configure your Skywallet for the first time, you have to install the firmware
 
 If you are **not** using your Desktop Wallet for the first time, then on connecting the Skywallet via USB, the following window will be displayed.
 
-<Screenshot of a previously configured Desktop Wallet with other Wallets as well>
+![All_Wallets](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Initialization_All_Wallets.png)
 
 The window will display a list of all the Wallets that are already configured in your Desktop Wallet. (*Note - This may include both Hardware and Software Wallets*)
 
@@ -80,7 +80,7 @@ To configure your Skywallet click on the **“Hardware Wallet”** button.
 
 On pressing “Hardware Wallet” button, the display screen on the Skywallet will show a welcome message:
 
-![Welcome_Message](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
+![Welcome_Msg](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
 
 Once the welcome message is displayed on the Skywallet screen, you can proceed to install the firmware.
 
@@ -104,7 +104,7 @@ Once the firmware installation is complete, the “NEEDS SEED!” message is dis
 
 Simultaneously, the following window will be displayed by the Desktop Wallet.
 
-![Unconfigured_HW](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Personalization%20-%201.PNG)
+![HW_Detection](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Personalization%20-%201.PNG)
 
 In this window, you can select two options :
 
@@ -134,4 +134,4 @@ The restoration process is explained in detail in this section - [Restore Config
 
 If the Skywallet is **not** connected or not detected by your computer, then the following error message will be displayed:
 
-<Screenshot of the error message showing no Skywallet detected>
+![Error_Msg](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Initialization_Last.png)
