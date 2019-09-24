@@ -4,13 +4,9 @@ After completing the initialization of your Skywallet, you can start to personal
 
 Upon configuring your Skywallet, it will be listed in the Wallet list. The list can be viewed when you open your Desktop Wallet.
 
-<can be removed> <Screenshot of the list of Wallets displayed when the Desktop Wallet is opened. One of the Wallets in the list needs to be a Skywallet>
-
 To personalize your Skywallet, connect your Skywallet via USB to your computer and then open the Desktop Wallet.
 
 Once the Desktop Wallet is opened, click on the **Hardware Wallet** button in the Desktop Wallet window.
-
-<can be removed> <Screenshot of the Desktop Wallet highlighting the Hardware Wallet button>
 
 Once you click on the "Hardware Wallet" button, the following window will appear:
 
@@ -38,12 +34,12 @@ Once the initialization is complete, it is essential to backup this Seed and sto
 
 To backup the Seed of your Skywallet, click on the button **"Create a backup"**.
 
-<can be removed> <Screenshot of the Hardware Wallet window with an arrow pointing towards the create a backup button or highlighting the button>
-
 Once you click the "Create a backup" button, a warning message will be displayed.
 
 After accepting this warning message, the Skywallet will start to display the words in your Seed one by one.
-<Picture of the Skywallet display screen showing different words in the Seed> <at least two pictures needed>
+![Seed_1](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_05-1.png)
+
+![Seed_2](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_05-2.png)
 
 **You need to note down each of these words and store it in a secure location.**
 
@@ -71,7 +67,7 @@ Once you click on the button "Create PIN code" the following window will appear 
 
 Simultaneously a number Matrix will be displayed on your Skywallet display screen.
 
-<Picture of the Skywallet showing the number matrix>
+![Matrix](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_06.png)
 
 To set the PIN, you have to use both the matrix as well as the Desktop Wallet window.
 
@@ -86,7 +82,7 @@ Alternatively, you can utilize the number keypad on your computer for entering t
 
 However, if you are using the number pad then note that **the position of the number in the matrix is what decides which number you are entering.**
 
-<Reusing the picture of the matrix>
+![Matrix](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_06.png)
 
 <An example comment using a single number on the position of the number keypad and the position of number in the matrix>
 
@@ -102,7 +98,7 @@ You can use the **Change PIN Code** option to change your current PIN code to a 
 
 Upon clicking the "Change PIN Code" button, the Hardware Wallet window will show you a keypad similar to the one you used to create the PIN code.
 
-<Picture of the Hardware wallet showing the number matrix>
+![Matrix](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_06.png)
   
 ![Keypad to enter the PIN code](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Personalization%20-%202.PNG)
 
