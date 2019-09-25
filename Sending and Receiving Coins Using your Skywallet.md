@@ -101,7 +101,6 @@ Follow the steps below to send coins using the "Advanced Send" option.
 **Step 2** - Open the Desktop Wallet from your computer.
 
 **Step 3** - Click on the **Send** tab.
-<can be removed> <Screenshot of the Desktop Wallet showing the Send window>
 
 **Step 4** - When you click on the Send tab, by default, the Simple Send option is selected, to select Advanced Send option click on the **Advanced Send** button next to the "Simple Send" button.
 
