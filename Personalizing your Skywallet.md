@@ -63,8 +63,6 @@ Once you click on the button "Create PIN code" the following window will appear 
 
 ![Keypad to enter the PIN code](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Personalization%20-%202.PNG)
 
-<it is mentioned in the wiki page that the hash symbol which is currently used to mask the numbers in the keypad will be changed to dot if so then the latest version screenshot will be needed>
-
 Simultaneously a number Matrix will be displayed on your Skywallet display screen.
 
 ![Matrix](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_06.png)
@@ -73,18 +71,18 @@ To set the PIN, you have to use both the matrix as well as the Desktop Wallet wi
 
 **Each position of the number in the matrix corresponds to its position in the keypad shown by the Desktop Wallet window.**
 
-<A side by side picture of the two pictures mentioned above>
-
-<An explanation of this side by side picture>
-<The explanation can also be an edited image showing the correct position of the numbers in the masked keypad of the Desktop Wallet window>
-
 Alternatively, you can utilize the number keypad on your computer for entering the PIN. 
 
 However, if you are using the number pad then note that **the position of the number in the matrix is what decides which number you are entering.**
 
 ![Matrix](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_06.png)
 
-<An example comment using a single number on the position of the number keypad and the position of number in the matrix>
+![PINcode](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Personalization%20-%203.png)
+
+The above picture illustrates the position of each numbers with respect to the above Matrix.
+
+You can also enter your PIN code using the number keypad on your computer, with respect to the matrix shown in picture you have to click the #7 on keypad to enter #1.  
+To enter #2 you have to press the #4 key on your keypad, similarily you can enter the rest of the numbers to create your PIN code.
 
 ***Note - While setting up your PIN you have to enter it twice.***
 
