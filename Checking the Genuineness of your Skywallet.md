@@ -10,10 +10,12 @@ Tampering or damage can be anything from a small tear on the package to a packag
 
 ### An Untampered Shipment:
 
-<A Picture of an untampered shipment before opening>
+![Untampered_Shipment_Front](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet-Untampered-Edit-Back-Side.jpg)
+
+![Untampered_Shipment_Back](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet-Untampered-Edit-Front-Side.jpg)
 
 Please ensure that the holographic sticker with the Skycoin logo on the Skywallet box is not broken.
-<A Picture of the unbroken holographic seal on the box>
+![Holographic_Sticker](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet-Untampered-Edit-Sticker.jpg)
 
 ## Checking the Firmware
 
@@ -39,7 +41,7 @@ If the Skywallet is a genuine one and is being used for the first time, then the
 
 Along with the Skycoin Logo.
 
-<A photo of the Hardware Wallet displaying the welcome message>
+![Welcome_Message](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
 
 A Skywallet that is being used for the first time will not have a firmware installed.
 
@@ -51,15 +53,15 @@ Any message apart from this welcome message implies that your Skywallet has been
 
 A previously used Skywallet may have a firmware initialized, and if it has, then it might mean that it has been manipulated. Such a Skywallet will display the following message on its display screen:
 
-**Need Seed!**
+**Needs Seed!**
 
 Along with the Skycoin Logo.
 
-<A picture of the Hardware Wallet which displays the message NEED SEED>
+![Needs_Seed](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_04.png)
 
-If you get a "Need Seed!" message on your first use, it means that your Skywallet is not a new one and has a firmware already initialized.
+If you get a "Needs Seed!" message on your first use, it means that your Skywallet is not a new one and has a firmware already initialized.
 
-**Note - If you do get a Need Seed! message on your first use of the Skywallet, refrain from using the device.**
+**Note - If you do get a Needs Seed! message on your first use of the Skywallet, refrain from using the device.**
 
 For further assistance, **Please contact the support team immediately.**
 
