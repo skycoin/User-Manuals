@@ -31,15 +31,9 @@ Once you have completed the backup of your Seed, you can proceed to update the f
 
 You can begin by clicking on the **Update** button from the dialogue box which appears right after you connect your Skywallet to the computer.
 
-<can be removed> <Reusing the Screenshot of the warning message dialogue box by highlighting the update button>
-
 If you have ignored this message and are in the Hardware Wallet option window, you can click on the **Update Firmware** button.
 
-<can be removed> <Reusing the screenshot of the warning message in the Hardware Wallet window by highlighting the update firmware button>
-
 Once you have clicked on either the "Update" button or "Update Firmware" button, a dialogue box with the warning message to **Backup your Seed** will appear on your computer:
-
-<can be removed> <Warning message to start the device in bootloader mode and backup the Seed>
 
 The warning message will also ask you to connect your Skywallet in bootloader mode.
 
@@ -51,11 +45,11 @@ To connect your Skywallet in bootloader mode, you have to follow these steps:
 
 When connected in the bootloader mode, the display screen on your Skywallet shows the following:
 
-<Picture of the Skywallet in bootloader mode>
+![Bootloader_Mode](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_07.png)
 
 After which the display will show the Welcome message.
 
-<Reusing the picture of the welcome message on the Skywallet>
+![Bootloader_Mode](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
 
 To continue the update you have to accept the operation on your computer. 
 
