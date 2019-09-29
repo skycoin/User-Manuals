@@ -20,7 +20,7 @@ Once the Skywallet is connected, you will see a welcome message on its display, 
 
 If you want to know more how to check the genuineness of your Skywallet. Please visit the following link - [Checking the Genuineness of your Skywallet](https://github.com/skycoin/hardware-wallet/wiki/How-to-check-whether-device-is-genuine)
 
-<Picture of the Welcome message on the Skywallet>
+![Welcome_Msg](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_03.png)
 
 ### Step 3
 
@@ -34,28 +34,20 @@ If it is your first-time use of the Desktop Wallet, then the following window wi
 
 Proceed to click on the **Using a hardware wallet?** button.
 
-<can be removed> <Reusing the last screenshot with the using a Hardware Wallet button highlighted>
-
 If it is not your first-time use of the Desktop Wallet, then all the Wallets configured using your Desktop Wallet will appear in a list.
 
 ![Wallet list in Desktop Wallet](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Restore%20Wallet%20-%201.PNG)
 
 In this case, proceed to click on the **Hardware Wallet** button, at the bottom.
 
-<can be removed> <Reusing the last screenshot with the Hardware Wallet button highlighted>
-
 ### Step 4
 
 Once you have clicked either "Using a hardware wallet?" button or "Hardware Wallet" button, the following window will be displayed by your Desktop Wallet.
 
-<can be removed> <Screenshot  of the Hardware Wallet window>
-
 Proceed to click on the **Restore backup** button.
 
-<can be removed> <Reusing the last screenshot with Restore backup button highlighted>
-
 Upon clicking "Restore backup" button, the Skywallet will start asking you to enter each words of your Seed by their position.
-<Image of the Skywallet asking to enter a word at a particular position>
+![Restore_Backup](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Skywallet%20Screen%20Mockup%20Edit_Skywallet%20Black_08.png)
 
 **The sequence of these positions will be random, i.e., the first word asked to be entered might be the word at position #6, but the next word might be the word at position #11 and so on.**
 
@@ -68,10 +60,6 @@ Upon clicking "Restore backup" button, the Skywallet will start asking you to en
 
 If you have successfully entered both the random words and the words in your Seed according to their position, the Desktop Wallet will display a confirmation window that your new Skywallet was added to the Wallet list.
 
-<can be removed> <Screenshot of the confirmation window from the Desktop Wallet>
-
 You can also rename your Skywallet using this window.
-
-<can be removed> <Reusing the last screenshot with the name of the Wallet edited>
 
 However, if you fail to enter either the random words correctly, or incorrectly enter the words of your Seed, the process will fail, and you will have to restart the procedure from the beginning.
