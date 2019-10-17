@@ -2,9 +2,7 @@
 
 Here are some of the most common issues you might encounter when using a Desktop Wallet and the best possible resolutions for troubleshooting these issues. 
 
-If you do not find a resolution for your issue, make sure you contact the support team via - **[store.skycoin.net/pages/support](store.skycoin.net/pages/support)**.
-
-You can also send an email at **support@skycoin.zendesk.com**.
+If you do not find a resolution for your issue, make sure you contact the support team via - **[store.skycoin.com/pages/support](https://store.skycoin.com/pages/support)**.
 
 ## Recovering a Desktop Wallet
 
@@ -21,14 +19,14 @@ It is always essential to keep your Wallet encrypted under all circumstances.
 Hence, in an unfortunate event of you losing or forgetting the password of your Desktop Wallet, the following recovery steps need to be followed.
 
 To recover a Wallet for which the password is lost you should have the backup Seed. You can learn more about your Seed and the recommended backup methods for securing your Seed from the following chapter:  
-[Security Recommendations for your Desktop Wallet]()
+[Security Recommendations for your Desktop Wallet](https://github.com/SkycoinProject/User-Manuals/blob/master/Desktop_Wallet/Security%20Recommendations%20for%20your%20Desktop%20Wallet.md)
 
 Before beginning with the recovery process, you have to choose whether you are loading your new Wallet in your existing Desktop or a different Desktop.
 
-If you are using a new Desktop, where you do not have a Skycoin Desktop Wallet installed, then you should download the latest version of Desktop Wallet from the [Downloads](https://www.skycoin.net/downloads) page.
+If you are using a new Desktop, where you do not have a Skycoin Desktop Wallet installed, then you should download the latest version of Desktop Wallet from the [Downloads](https://www.skycoin.com/downloads) page.
 
 You can learn how to initialize a Desktop Wallet from the following chapter:  
-[Setting up your Desktop Wallet]().
+[Setting up your Desktop Wallet](https://github.com/SkycoinProject/User-Manuals/blob/master/Desktop_Wallet/Desktop_Setting%20up%20your%20Desktop%20Wallet.md).
 
 If you have the Desktop Wallet already installed and you have not loaded the Wallet, which you are restoring, on your new Desktop, then you can proceed to the [recovery process](#recovery_prcs).
 
@@ -39,7 +37,7 @@ However, **if you have previously loaded the said Wallet to your new Desktop or 
 
 * Click on the "triple bar" symbol on the top right corner and then click on the **Backup Wallet** button.
 
-![Show Seed](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%204.PNG)
+![Triple_Bar_Button](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Desktop_Wallet_Manual/Triple_Bar_Button_Highlighted.png)
 
 * The list of all the Wallets which is configured on your Desktop will be displayed, along with ".wlt" filename.
 
@@ -52,7 +50,7 @@ However, **if you have previously loaded the said Wallet to your new Desktop or 
 
 * The contents of the ".wlt" file will look something like this:
 
-![Wallet_File](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%202.PNG)
+![Wallet_File_Content](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Desktop_Wallet_Manual/Wallet_File_Content.png)
 
 * You can check the "Label" to confirm the name of your Wallet.
 
@@ -71,15 +69,14 @@ Once you have completed these steps, you can proceed to the recovery process.
 * Backup Seed of the Wallet you want to recover.
 * New Password to encrypt the Wallet.
 
-![Load Wallet Window](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%203_edit.PNG)
+![Load Wallet Window](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Desktop_Wallet_Manual/Load_Wallet_Window.png)
 
 **Step 3** - Once the above data is entered, you can click on the "Load" button, to load your Wallet.
 
 ### Lost Backup Seed
 
-The Seed of a Wallet is its most important component. If you lose or someone steals the Seed of your Wallet, it is recommended that you connect with the support team immediately via the following methods -  
-**[store.skycoin.net/pages/support](store.skycoin.net/pages/support)**.  
-You can also send an email at **support@skycoin.zendesk.com**.
+The Seed of a Wallet is its most important component. If you lose or someone steals the Seed of your Wallet, it is recommended that you connect with the support team immediately via the following link -  
+**[store.skycoin.com/pages/support](https://store.skycoin.com/pages/support)**.
 
 However, you can recover your lost Seed if you have the encryption password with you, by following these steps:
 
@@ -87,19 +84,19 @@ However, you can recover your lost Seed if you have the encryption password with
 
 **Step 2** - Click on the "triple bar" symbol on the top right corner and then click on the **Backup Wallet** button.
 
-![Show Seed](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%204.PNG)
+![Triple_Bar_Button](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Desktop_Wallet_Manual/Triple_Bar_Button_Highlighted.png)
 
 **Step 3** - Upon clicking the 'Backup Wallet" button, a window with the list of all the Wallets configured using the Desktop Wallet will be displayed.  
 Click on the **Show Seed** button at the right end against the name of the Wallet for which you wish to view the Seed.
 
-![Show Seed Window](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%205.PNG)
+![Show Seed Window](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Desktop_Wallet_Manual/Desktop_Wallet_Show_Seed.png)
 
 **Step 4** - You will be prompted to enter the encryption password, once entered click on **Proceed**.
 
 **Step 5** - The Wallet window will be displayed in a dialogue box.
 
 The following chapter deals with the methods for safeguarding your Seed -  
-[Security Recommendations for your Desktop Wallet]().
+[Security Recommendations for your Desktop Wallet](https://github.com/SkycoinProject/User-Manuals/blob/master/Desktop_Wallet/Security%20Recommendations%20for%20your%20Desktop%20Wallet.md).
 
 ## Syncing Issues
 
@@ -119,10 +116,9 @@ Check the connection speed of your network, also try disconnecting and reconnect
 
 * If all the above steps have failed, then **backup your Wallet** (to ensure the safety of your coins) and then uninstall and reinstall the Desktop Wallet.
 
-* You can also try downloading the latest version of the Skycoin Desktop Wallet from the [Downloads](https://www.skycoin.net/downloads) page.
+* You can also try downloading the latest version of the Skycoin Desktop Wallet from the [Downloads](https://www.skycoin.com/downloads) page.
 
-If none of these methods fix your issue, then try contacting the support team at - **[store.skycoin.net/pages/support](store.skycoin.net/pages/support)**.  
-You can also send an email at **support@skycoin.zendesk.com**.
+If none of these methods fix your issue, then try contacting the support team at - **[store.skycoin.com/pages/support](https://store.skycoin.com/pages/support)**.
 
 ## <a name="Wipe_Wlt_Files"></a> Wipe the Wallet Files
 
@@ -134,7 +130,7 @@ Under some circumstances like the one mentioned in the topic **[Lost Wallet Pass
 
 **Step 1** - Click on the "triple bar" symbol on the top right corner and then click on the **Backup Wallet** button.
 
-![Show Seed](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Desktop_Troubleshooting%204.PNG)
+![Triple_Bar_Button](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Desktop_Wallet_Manual/Triple_Bar_Button_Highlighted.png)
 
 **Step 2** - The list of all the Wallets which is configured on your Desktop will be displayed, along with ".wlt" filename.
 
