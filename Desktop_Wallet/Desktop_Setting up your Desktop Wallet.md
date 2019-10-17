@@ -21,7 +21,9 @@ The recommended way to store your Seed is by writing down the Seed in a piece of
 By default, a 12 word Seed will be generated. However, you can opt for a 24 word Seed by click on the button **24 words**.  
 You can read more on the security precautions when handling Seed in this chapter - [Securing and Accessing your Seed]().
 
-* A blank box to confirm the Seed of the Wallet - The Seed generated needs to be entered in this box to confirm the action.
+* The **Confirm Seed** button to confirm the generated Seed, when you click on the "Confirm Seed", you will be asked to enter each words in the Seed, sequentially.  
+This is done to ensure that you have safely stored the correct Seed.
+![Confirming_Seed](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Desktop_Wallet_Manual/Confirming%20Seed.PNG)
 
 * Encrypt Wallet - By default, the **Encrypt Wallet** box will be checked.  
 The "Encrypt Wallet" option adds a password to your Desktop  Wallet to improve its security.  
@@ -31,7 +33,7 @@ Although not recommended, you can also opt to uncheck the option and leave your 
 
 **Step 3** - Once you are done entering all the details, you can proceed to create the Desktop Wallet by clicking on the **Create** button.
 
-![Create Wallet window](https://github.com/sreekumar13/hardware-wallet-manual/blob/master/Setting%20up%20your%20Desktop%20Wallet%20-%201.PNG)
+![Create Wallet window](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Desktop_Wallet_Manual/Create_Wallet_Window.png)
 
 Once you are done with the creation of your Desktop Wallet, you can use it to send and receive coins.  
 You can find the address of your Wallet by click on the drop-down arrow at the right end.
