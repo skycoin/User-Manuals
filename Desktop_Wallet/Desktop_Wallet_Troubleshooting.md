@@ -44,7 +44,7 @@ However, **if you have previously loaded the said Wallet to your new Desktop or 
 * Find out the Wallet which you wish to restore and get the ".wlt" filename.
 
 * Open the Wallets folder by clicking on the **Show** tab from the menu.  
-<Screenshot of the show tab>
+![Show_Tab](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Desktop_Wallet_Manual/Desktop_Wallet_Show_Tab.png)
 
 * Once in the Wallets folder, open the ".wlt" file which you have found on step 3.
 
