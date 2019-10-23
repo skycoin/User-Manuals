@@ -4,7 +4,7 @@ This section will help you in choosing your Mobile Wallet.
 
 ## Available Versions of Mobile Wallet
 
-To download your Mobile Wallet, you have to visit the [Downloads](https://www.skycoin.net/downloads/) page on the Skycoin [Website](https://www.skycoin.net).
+To download your Mobile Wallet, you have to visit the [Downloads](https://www.skycoin.com/downloads/) page on the Skycoin [Website](https://www.skycoin.com).
 
 Mobile Wallets are available for both Android and iOS :
 
