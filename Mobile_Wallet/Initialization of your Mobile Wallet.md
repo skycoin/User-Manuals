@@ -22,10 +22,12 @@ Once you have created the PIN, you can begin the initialization by creating a ne
 
 * Seed of the Wallet - The Seed is the key component of a Wallet; hence it should be kept in a safe place to secure it from unauthorized access.  
 The recommended way to store your Seed is by writing down the Seed in a piece of paper and storing it safely.  
-By default, a 12 word Seed will be generated. However, you can opt for a 24 word Seed by click on the button **24 words**.  
 You can read more on the security precautions when handling Seed in this chapter - [Security Recommendation for your Mobile Wallet](https://github.com/SkycoinProject/User-Manuals/blob/master/Mobile_Wallet/%5BMobile%5D%20Security%20Recommendations.md).
 
-* A blank box to confirm the Seed of the Wallet - The Seed generated needs to be entered in this box to confirm the action.
+* A blank box to confirm the Seed of the Wallet - The Seed generated needs to be entered in this box to confirm the action.  
+You can also generate a new Seed by clicking on the button **NEW SEED**.
+
+![Wallet_Creation](https://github.com/SkycoinProject/User-Manuals/blob/master/Pictures/Pictures_Mobile_Wallet/Wallet_Creation.png)
 
 **Step 3** - Once you have entered all the details, you can proceed to create the Wallet by clicking on the **Create** button.
 
